@@ -1,0 +1,160 @@
+,VERSION,DBLINK,SOURCE,ORGANISM,ISOLATE,ISOLATION_SOURCE,METAGENOME_SOURCE,COUNTRY,LAT_LON
+0,,,,,,,,,
+1,PZN94751.1,BioProject: PRJNA436342,accession QBLU01000020.1,Alphaproteobacteria bacterium,ULC179bin3,microbial mat ULC179,microbial mat metagenome,Antarctica,72.00 S 25.00 E
+2,WP_182191893.1,,unclassified Colwellia,unclassified Colwellia,,,,,
+3,WP_183738406.1,,unclassified Janthinobacterium,unclassified Janthinobacterium,,,,,
+4,WP_322125684.1,,Actimicrobium sp. CCI2.3,Actimicrobium sp. CCI2.3,,,,,
+5,WP_144236995.1,,Glacieibacterium frigidum,Glacieibacterium frigidum,,,,,
+6,WP_317205310.1,,Janthinobacterium sp.,Janthinobacterium sp.,,,,,
+7,WP_322232362.1,,unclassified Glaciimonas,unclassified Glaciimonas,,,,,
+8,WP_205323122.1,,Glaciimonas sp. PAMC28666,Glaciimonas sp. PAMC28666,,,,,
+9,WP_168055574.1,,Glaciimonas immobilis,Glaciimonas immobilis,,,,,
+10,WP_315184380.1,,uncultured Albidiferax sp.,uncultured Albidiferax sp.,,,,,
+11,WP_176461139.1,,Janthinobacterium sp. PC23-8,Janthinobacterium sp. PC23-8,,,,,
+12,OYO26576.1,BioProject: PRJNA390432,accession NJGY01000004.1,Janthinobacterium sp. PC23-8,,stream sediment,,USA,40.81 N 80.21 W
+13,WP_289947378.1,,Janthinobacterium sp. SUN073,Janthinobacterium sp. SUN073,,,,,
+14,ATD63884.1,BioProject: PRJNA407061,accession CP023422.1,Janthinobacterium svalbardensis,,fresh water,,Antarctica: fresh water,
+15,WP_157751068.1,,Janthinobacterium svalbardensis,Janthinobacterium svalbardensis,,,,,
+16,WP_180338460.1,,Janthinobacterium sp. 61,Janthinobacterium sp. 61,,,,,
+17,PKV44305.1,BioProject: PRJNA402414,accession PJMQ01000001.1,Janthinobacterium sp. 61,,,,USA: Lake Washington,
+18,TDY35503.1,BioProject: PRJNA442009,accession SORD01000001.1,Janthinobacterium sp. 75,,,,USA: Lake Washington,
+19,WP_166674771.1,,Janthinobacterium sp. 75,Janthinobacterium sp. 75,,,,,
+20,ARM65354.1,,accession KY314795.1,uncultured bacterium,,Chlamydomonas sp. ICE-MDV,,Antarctica,77.7333 S 162.1667 E
+21,WP_168208372.1,,Janthinobacterium tructae,Janthinobacterium tructae,,,,,
+22,MBH1993955.1,BioProject: PRJNA488537,accession JAECQS010000005.1,Burkholderiales bacterium,AER1_4,"enrichment culture AER1 inoculated with
+                     biofilm which develop in hydrocarbon contaminated
+                     groundwater; aerobic enrichment culture amended with 20
+                     ppm diesel fuel/ crude oil mixture (3:2, v/v) as carbon
+                     and energy sources",biofilm metagenome,Hungary: Bugyi,47.13 N 19.08 E
+23,QDG73948.1,BioProject: PRJNA549366,accession CP041185.1,Janthinobacterium tructae,,kidney,,South Korea: Chungbuk province,
+24,PIG30480.1,BioProject: PRJNA402415,accession PEFN01000001.1,Janthinobacterium sp. 35,,,,USA: Lake Washington,
+25,WP_180287926.1,,Janthinobacterium sp. 35,Janthinobacterium sp. 35,,,,,
+26,WP_219889572.1,,Janthinobacterium sp. PAMC25594,Janthinobacterium sp. PAMC25594,,,,,
+27,MBC7454538.1,BioProject: PRJNA552582,accession JACMQT010000356.1,Massilia sp.,LF-bin-456,glacial surface ice,glacier metagenome,"Greenland: the Little Firn glacier in the Knuths
+                     Fjeld",81.566 N 16.363 W
+28,WP_282407664.1,,Janthinobacterium tructae,Janthinobacterium tructae,,,,,
+29,PVX36614.1,BioProject: PRJNA442012,accession QENT01000001.1,Janthinobacterium sp. 78,,,,USA: Lake Washington,
+30,WP_165829460.1,,Janthinobacterium sp. 78,Janthinobacterium sp. 78,,,,,
+31,WP_007637145.1,,Paraglaciecola psychrophila,Paraglaciecola psychrophila,,,,,
+32,WP_157760453.1,,Thiomicrorhabdus arctica,Thiomicrorhabdus arctica,,,,,
+33,WP_101200821.1,,Paraglaciecola sp. MB-3u-78,Paraglaciecola sp. MB-3u-78,,,,,
+34,WP_015431165.1,,Paraglaciecola psychrophila,Paraglaciecola psychrophila,,,,,
+35,WP_182232932.1,,Colwellia sp. MB02u-6,Colwellia sp. MB02u-6,,,,,
+36,MBC7620265.1,BioProject: PRJNA552582,accession JACMPB010000524.1,Rhodoferax sp.,LF-bin-29,glacial surface ice,glacier metagenome,"Greenland: the Little Firn glacier in the Knuths
+                     Fjeld",81.566 N 16.363 W
+37,WP_124729460.1,,Shewanella livingstonensis,Shewanella livingstonensis,,,,,
+38,WP_249008489.1,,unclassified Marinobacter,unclassified Marinobacter,,,,,
+39,WP_101182866.1,,Glaciecola sp. 33A,Glaciecola sp. 33A,,,,,
+40,MCL1484138.1,BioProject: PRJNA540708,accession JAKRQR010000008.1,Marinobacter sp.,CBIW18,"Metagenome from cryopeg brine bacterial
+                     community",aquatic metagenome,"USA: Utqiagvik, AK",71.2944 N 156.7153 W
+41,WP_249013970.1,,Marinobacter sp. M3C,Marinobacter sp. M3C,,,,,
+42,WP_243756269.1,,Shewanella sp. BF02_Schw,Shewanella sp. BF02_Schw,,,,,
+43,MBO1896578.1,BioProject: PRJNA632589,accession JABKAW020000002.1,Shewanella sp. BF02_Schw,,Subglacial Brine,,"Antarctica: Blood Falls, Taylor Glacier",
+44,WP_054342594.1,,Neptunomonas antarctica,Neptunomonas antarctica,,,,,
+45,MBA6354923.1,BioProject: PRJNA420923,accession JACGVT010000003.1,Colwellia sp. BRX8-3,,bottom of first year landfast sea ice,,"USA: Point Barrow, Alaska",71.355267 N 156.686983 W
+46,MCL1478886.1,BioProject: PRJNA540708,accession JAKRQS010000025.1,Marinobacter sp.,CBIA,"Metagenome from cryopeg brine bacterial
+                     community",aquatic metagenome,"USA: Utqiagvik, AK",71.2944 N 156.7153 W
+47,WP_259364633.1,,unclassified Colwellia,unclassified Colwellia,,,,,
+48,MBC7456421.1,BioProject: PRJNA552582,accession JACMQT010000630.1,Massilia sp.,LF-bin-456,glacial surface ice,glacier metagenome,"Greenland: the Little Firn glacier in the Knuths
+                     Fjeld",81.566 N 16.363 W
+49,WP_295956177.1,,Rhodoferax sp.,Rhodoferax sp.,,,,,
+50,MBA6337687.1,BioProject: PRJNA420923,accession JACGVP010000009.1,Colwellia sp. BRX8-7,,bottom of first year landfast sea ice,,"USA: Point Barrow, Alaska",71.355267 N 156.686983 W
+51,WP_259366934.1,,unclassified Colwellia,unclassified Colwellia,,,,,
+52,MBA6292234.1,BioProject: PRJNA420923,accession JACGVA010000059.1,Colwellia sp. MB3u-8,,bottom of first year landfast sea ice,,"USA: Point Barrow, Alaska",71.383805 N 156.524113 W
+53,AOW76294.1,BioProject: PRJNA315484,accession CP014944.1,Colwellia sp. PAMC 20917,,Sediment,,Norway:Svalbard,
+54,WP_007351000.1,,Marinobacter sp. ELB17,Marinobacter sp. ELB17,,,,,
+55,WP_259366843.1,,Colwellia sp. BRX8-7,Colwellia sp. BRX8-7,,,,,
+56,WP_006010079.1,,Glaciecola pallidula,Glaciecola pallidula,,,,,
+57,WP_099914528.1,,Massilia psychrophila,Massilia psychrophila,,,,,
+58,WP_231907429.1,,Colwellia sp. PAMC 20917,Colwellia sp. PAMC 20917,,,,,
+59,WP_082400316.1,,Neptunomonas antarctica,Neptunomonas antarctica,,,,,
+60,SIS42252.1,BioProject: PRJEB18820,embl accession FTOE01000001.1,Neptunomonas antarctica,,,,,
+61,MBA6231802.1,BioProject: PRJNA420923,accession JACGUW010000164.1,Colwellia sp. MB02u-7,,bottom of first year landfast sea ice,,"USA: Point Barrow, Alaska",71.383805 N 156.524113 W
+62,TWX59485.1,BioProject: PRJNA516280,accession VOLP01000001.1,Colwellia hornerae,,sea ice algal assemblage,,Antarctica: Vestfold Hills,68 S 78 E
+63,WP_223813301.1,,Colwellia hornerae,Colwellia hornerae,,,,,
+64,MCL1480574.1,BioProject: PRJNA540708,accession JAKRQT010000006.1,Marinobacter sp.,CB1,"Metagenome from cryopeg brine bacterial
+                     community",aquatic metagenome,"USA: Utqiagvik, AK",71.2944 N 156.7153 W
+65,WP_220460822.1,,unclassified Colwellia,unclassified Colwellia,,,,,
+66,WP_259366576.1,,unclassified Colwellia,unclassified Colwellia,,,,,
+67,WP_182233251.1,,Colwellia sp. MB02u-6,Colwellia sp. MB02u-6,,,,,
+68,WP_098421617.1,,Marinobacter sp. LV10MA510-1,Marinobacter sp. LV10MA510-1,,,,,
+69,TWX46538.1,BioProject: PRJNA516280,accession VOLP01000038.1,Colwellia hornerae,,sea ice algal assemblage,,Antarctica: Vestfold Hills,68 S 78 E
+70,WP_220465185.1,,Colwellia sp. MB02u-9,Colwellia sp. MB02u-9,,,,,
+71,WP_223813319.1,,Colwellia hornerae,Colwellia hornerae,,,,,
+72,WP_182184330.1,,Colwellia sp. MB3u-4,Colwellia sp. MB3u-4,,,,,
+73,WP_297348392.1,,uncultured Glaciecola sp.,uncultured Glaciecola sp.,,,,,
+74,MBC7513951.1,BioProject: PRJNA552582,accession JACMQB010000083.1,Herminiimonas sp.,LF-bin-399,glacial surface ice,glacier metagenome,"Greenland: the Little Firn glacier in the Knuths
+                     Fjeld",81.566 N 16.363 W
+75,WP_295954677.1,,Rhodoferax sp.,Rhodoferax sp.,,,,,
+76,WP_182218487.1,,unclassified Colwellia,unclassified Colwellia,,,,,
+77,WP_182191341.1,,unclassified Colwellia,unclassified Colwellia,,,,,
+78,WP_297347524.1,,uncultured Glaciecola sp.,uncultured Glaciecola sp.,,,,,
+79,MDO9280012.1,BioProject: PRJNA700657,accession JAURWY010000034.1,Polaromonas sp.,E10_concoct.bin.55,groundwater,groundwater metagenome,Canada: Alberta,55.62 N 111.08 W
+80,WP_083278107.1,,Colwellia sp. PAMC 20917,Colwellia sp. PAMC 20917,,,,,
+81,MBA6371157.1,BioProject: PRJNA420923,accession JACGVS010000006.1,Colwellia sp. BRX8-4,,bottom of first year landfast sea ice,,"USA: Point Barrow, Alaska",71.355267 N 156.686983 W
+82,MBA6347951.1,BioProject: PRJNA420923,accession JACGVN010000007.1,Colwellia sp. BRX8-9,,bottom of first year landfast sea ice,,"USA: Point Barrow, Alaska",71.355267 N 156.686983 W
+83,WP_322129377.1,,Actimicrobium sp. CCI2.3,Actimicrobium sp. CCI2.3,,,,,
+84,WP_259368016.1,,Colwellia sp. BRX8-9,Colwellia sp. BRX8-9,,,,,
+85,WP_259368167.1,,Colwellia sp. BRX8-4,Colwellia sp. BRX8-4,,,,,
+86,WP_146880231.1,,Colwellia sp. C1TZA3,Colwellia sp. C1TZA3,,,,,
+87,WP_053076133.1,,Marinobacter psychrophilus,Marinobacter psychrophilus,,,,,
+88,WP_170246405.1,,Colwellia hornerae,Colwellia hornerae,,,,,
+89,TWX48860.1,BioProject: PRJNA516280,accession VOLP01000028.1,Colwellia hornerae,,sea ice algal assemblage,,Antarctica: Vestfold Hills,68 S 78 E
+90,WP_070375891.1,,Colwellia sp. PAMC 20917,Colwellia sp. PAMC 20917,,,,,
+91,WP_026843478.1,,Glaciecola pallidula,Glaciecola pallidula,,,,,
+92,WP_007638249.1,,Paraglaciecola psychrophila,Paraglaciecola psychrophila,,,,,
+93,WP_182214084.1,,unclassified Colwellia,unclassified Colwellia,,,,,
+94,GAC27059.1,BioProject: PRJDB30,accession BAEQ01000004.1,Glaciecola pallidula DSM 14239 = ACAM 615,,,,,
+95,WP_259366882.1,,Colwellia sp. BRX8-7,Colwellia sp. BRX8-7,,,,,
+96,WP_182244500.1,,unclassified Colwellia,unclassified Colwellia,,,,,
+97,TWX59484.1,BioProject: PRJNA516280,accession VOLP01000001.1,Colwellia hornerae,,sea ice algal assemblage,,Antarctica: Vestfold Hills,68 S 78 E
+98,WP_170246275.1,,Colwellia hornerae,Colwellia hornerae,,,,,
+99,WP_182259500.1,,Colwellia sp. BRX8-4,Colwellia sp. BRX8-4,,,,,
+100,WP_232771782.1,,Glaciecola sp. 33A,Glaciecola sp. 33A,,,,,
+101,WP_182230820.1,,Colwellia sp. BRX9-1,Colwellia sp. BRX9-1,,,,,
+102,WP_182251471.1,,Colwellia sp. BRX8-9,Colwellia sp. BRX8-9,,,,,
+103,WP_293757260.1,,uncultured Paraglaciecola sp.,uncultured Paraglaciecola sp.,,,,,
+104,WP_070374380.1,,Colwellia sp. PAMC 20917,Colwellia sp. PAMC 20917,,,,,
+105,WP_182242842.1,,Colwellia sp. BRX8-7,Colwellia sp. BRX8-7,,,,,
+106,WP_182173534.1,,Colwellia sp. MB3u-55,Colwellia sp. MB3u-55,,,,,
+107,WP_182230278.1,,Colwellia sp. BRX9-1,Colwellia sp. BRX9-1,,,,,
+108,WP_182216739.1,,unclassified Colwellia,unclassified Colwellia,,,,,
+109,PKI02759.1,BioProject: PRJNA420923,accession PJAR01000030.1,Glaciecola sp. 33A,,,,,
+110,WP_293759360.1,,uncultured Paraglaciecola sp.,uncultured Paraglaciecola sp.,,,,,
+111,MBA6349671.1,BioProject: PRJNA420923,accession JACGVN010000022.1,Colwellia sp. BRX8-9,,bottom of first year landfast sea ice,,"USA: Point Barrow, Alaska",71.355267 N 156.686983 W
+112,WP_054342598.1,,Neptunomonas antarctica,Neptunomonas antarctica,,,,,
+113,WP_259367748.1,,unclassified Colwellia,unclassified Colwellia,,,,,
+114,MBA6338811.1,BioProject: PRJNA420923,accession JACGVP010000019.1,Colwellia sp. BRX8-7,,bottom of first year landfast sea ice,,"USA: Point Barrow, Alaska",71.355267 N 156.686983 W
+115,WP_182241509.1,,Colwellia sp. MB02u-10,Colwellia sp. MB02u-10,,,,,
+116,WP_082400325.1,,Neptunomonas antarctica,Neptunomonas antarctica,,,,,
+117,WP_293763162.1,,uncultured Paraglaciecola sp.,uncultured Paraglaciecola sp.,,,,,
+118,WP_273252386.1,,Marinobacter psychrophilus,Marinobacter psychrophilus,,,,,
+119,WP_101179641.1,,Glaciecola sp. 33A,Glaciecola sp. 33A,,,,,
+120,WP_259368589.1,,Colwellia sp. BRX10-4,Colwellia sp. BRX10-4,,,,,
+121,MDB4327431.1,BioProject: PRJNA846736,accession JAOKQF010000014.1,bacterium,AH-654-A11,"single cell amplified by WGA-X; Bigelow
+                     Laboratory Dock",,USA: East Boothbay ME,43.860494 N 69.578706 W
+122,WP_293756275.1,,uncultured Paraglaciecola sp.,uncultured Paraglaciecola sp.,,,,,
+123,WP_091852726.1,,Candidatus Aquiluna sp. UB-MaderosW2red,Candidatus Aquiluna sp. UB-MaderosW2red,,,,,
+124,SCX15634.1,BioProject: PRJEB15894,embl accession LT627734.1,Candidatus Aquiluna sp. UB-MaderosW2red,,,,,62.663 S 61.1769 W
+125,WP_006014494.1,,Glaciecola pallidula,Glaciecola pallidula,,,,,
+126,WP_293764064.1,,uncultured Paraglaciecola sp.,uncultured Paraglaciecola sp.,,,,,
+127,HEV2594308.1,BioProject: PRJNA983538,accession DASZBO010000040.1,Sphingomicrobium sp.,SMAG_U6417,soil,soil metagenome,Switzerland,46.70875 N 10.38848 E
+128,WP_018403716.1,,Marinobacter gelidimuriae,Marinobacter gelidimuriae,,,,,
+129,MDO8579338.1,BioProject: PRJNA700657,accession JAUSGU010000014.1,bacterium,E14_metabat.bin.148,groundwater,groundwater metagenome,Canada: Alberta,55.45 N 111.33 W
+130,WP_146880230.1,,Colwellia sp. C1TZA3,Colwellia sp. C1TZA3,,,,,
+131,HTL73572.1,BioProject: PRJNA983538,accession DATJFJ010000271.1,bacterium,SMAG_U15457,soil,soil metagenome,,
+132,MDQ3185722.1,BioProject: PRJNA832417,accession JALYOY010000116.1,Pseudomonadota bacterium,MDV bin23,soil,soil metagenome,"Antarctica: Eastern Antarctica, McMurdo Dry
+                     Valleys",77.57 S 163.52 E
+133,WP_091849830.1,,Candidatus Aquiluna sp. UB-MaderosW2red,Candidatus Aquiluna sp. UB-MaderosW2red,,,,,
+134,MDE2628134.1,BioProject: PRJNA675967,accession JAGWTP010000068.1,Burkholderiales bacterium,REEB376,"rare earth elements-acid mine drainage
+                     (REEs-AMD) contaminated river water",mine drainage metagenome,China: Jiangxi,24.54 N 115.10 E
+135,WP_101038588.1,,Psychromonas sp. MB-3u-54,Psychromonas sp. MB-3u-54,,,,,
+136,WP_293376684.1,,Phenylobacterium sp.,Phenylobacterium sp.,,,,,
+137,HEY5629088.1,BioProject: PRJNA983538,accession DATCYS010000329.1,Candidatus Limnocylindrales bacterium,SMAG_U50,soil,soil metagenome,China,29.16 N 119.39 E
+138,MDP1674276.1,BioProject: PRJNA700657,accession JAUXUY010000447.1,Burkholderiales bacterium,C15_concoct.bin.19,groundwater,groundwater metagenome,Canada: Alberta,52.94 N 113.37 W
+139,MBC7962944.1,BioProject: PRJNA552582,accession JACMKN010000172.1,Deltaproteobacteria bacterium,ES-bin-228,glacier surface soil,glacier metagenome,"Greenland: the Little Firn glacier in the Knuths
+                     Fjeld",81.567 N 16.358 W
+140,HUX90144.1,BioProject: PRJNA983538,accession DATKTO010000019.1,Gallionellaceae bacterium,SMAG_U14083,soil,soil metagenome,Finland,63.0472 N 21.7116 E
+141,GGL03109.1,BioProject: PRJDB10509,accession BMLC01000004.1,Salinibacterium xinjiangense,,,,,
+142,MDP2397169.1,BioProject: PRJNA700657,accession JAUXYA010000006.1,Burkholderiales bacterium,C18_concoct.bin.105,groundwater,groundwater metagenome,Canada: Alberta,52.65 N 111.38 W
+143,WP_143544721.1,,Salinibacterium xinjiangense,Salinibacterium xinjiangense,,,,,

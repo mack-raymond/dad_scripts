@@ -1,0 +1,678 @@
+,VERSION,DBLINK,SOURCE,ORGANISM,ISOLATE,ISOLATION_SOURCE,METAGENOME_SOURCE,COUNTRY
+0,,,,,,,,
+1,RZL73204.1\par,BioProject: PRJNA272922\highlight0\par,accession SEES01000319.1\par,Rhodococcus sp. (in: high G+C Gram-positive bacteria)\par,PMG_126,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+2,ELS00585.1\par,BioProject: PRJNA159499\par,accession ALVZ01000232.1\par,Xenococcus sp. PCC 7305\par,,marine aquarium,,"USA: La Jolla, CA"
+3,EGN74279.1\par,BioProject: PRJNA67347\par,accession AFPO01000026.1\par,Idiomarina sp. A28L\par,,,,India: Pangong Lake
+4,EGN74276.1\par,BioProject: PRJNA67347\par,accession AFPO01000026.1\par,Idiomarina sp. A28L\par,,,,India: Pangong Lake
+5,UPA22962.1\par,BioProject: PRJNA757735\par,accession CP082927.1\par,Candidatus Peribacteria bacterium\par,LakeFargette_0920_ALND_MAG_52_24,"size-fractionated lake water incubated\par
+                     for 31 months",freshwater metagenome,"France: Neuville, Lake Fargette"
+6,ULO05820.1\par,BioProject: PRJNA648008\par,accession CP059724.1\par,Paenibacillus sp. 19GGS1-52\par,,reservoir sediment,,South Korea
+7,UFS60437.1\par,BioProject: PRJNA678113\par,accession CP087997.1\par,Subtercola endophyticus\par,,,,"South Korea: Halla mountain, Jeju island"
+8,TKC10422.1\par,BioProject: PRJNA534133\par,accession SWBR01000002.1\par,Pedobacter polaris\par,,Arctic Soil,,"Canada: Cambridge Bay, NU"
+9,TCC96737.1\par,BioProject: PRJNA524755\par,accession SJSL01000011.1\par,Pedobacter psychroterrae\par,,Arctic soil,,Svalbard: Spitsbergen
+10,TCC96480.1\par,BioProject: PRJNA524756\par,accession SJSM01000005.1\par,Pedobacter hiemivivus\par,,Arctic soil,,"Canada: Cambridge Bay, NU"
+11,QWY78220.1\par,BioProject: PRJNA704679\par,accession CP071137.1\par,Ferrovum myxofaciens\par,MI1III,stalactite biofilm,biofilm metagenome,"Czech Republic: silver ore mine Lehnschafter,\par
+                     drift Allerheiligen, Mikulov"
+12,QWY75482.1\par,BioProject: PRJNA701483\par,accession CP070327.1\par,Ferrovum myxofaciens\par,MI1I,stalactite biofilm,biofilm metagenome,"Czech Republic: silver ore mine Lehnschafter,\par
+                     drift Allerheiligen, Mikulov"
+13,QVG66367.1\par,BioProject: PRJNA687999\par,accession CP074439.1\par,Curtobacterium flaccumfaciens pv. flaccumfaciens\par,,,,Australia: New South Wales
+14,QKE37811.1\par,BioProject: PRJNA633238\par,accession CP053675.2\par,Ferrovum myxofaciens\par,MI1A,stalactite biofilm,stalactite biofilm,"Czech Republic: silver ore mine Lehnschafter,\par
+                     drift Allerheiligen, Mikulov"
+15,QRY55489.1\par,BioProject: PRJNA610894\par,accession CP070350.1\par,Sphingobacterium siyangense\par,,"Plastic debris in land/lake\par
+                     environment",,"USA: St. Paul, Minnesota"
+16,QRY39697.1\par,BioProject: PRJNA610894\par,accession CP070346.1\par,Microbacterium hominis\par,,"Plastic debris in land/lake\par
+                     environment",,"USA: St. Paul, Minnesota"
+17,QPE05771.1\par,BioProject: PRJNA675454\par,accession CP064760.1\par,Microbacterium schleiferi\par,,,,China: West Pacific
+18,QNG37869.1\par,BioProject: PRJNA554385\par,accession CP043652.1\par,Geodermatophilaceae bacterium NBWT11\par,,soil,,Antarctica: Wilkes tip
+19,QNE44372.1\par,BioProject: PRJNA554385\par,accession CP043650.1\par,Frigoribacterium sp. NBH87\par,,soil,,Antarctica: Herring Island
+20,QOC22054.1\par,BioProject: PRJNA657903\par,accession CP061368.1\par,Wenzhouxiangella sp. AB-CW3\par,,soda lake sediment,,"Russia: Kulunda Steppe, Altai region"
+21,QKE40443.1\par,BioProject: PRJNA633240\par,accession CP053676.1\par,Ferrovum myxofaciens\par,S2.4,stalactite biofilm,stalactite biofilm,"Slovakia: Sobov mine, Banska Stiavnica"
+22,KAF3998250.1\par,BioProject: PRJNA612417\par,accession JAAOZT010000006.1\par,Glaciimonas immobilis\par,,glacier cryoconite,,Austria
+23,KAB1154781.1\par,BioProject: PRJNA574007\par,accession WAEM01000007.1\par,Flavobacterium luteum\par,,glacier ice,,
+24,KAA9340156.1\par,BioProject: PRJNA563288\par,accession VTWT01000003.1\par,Adhaeribacter soli\par,,soil,,South Korea: Busan
+25,KAA0975249.1\par,BioProject: PRJNA521297\par,accession VOBL01000015.1\par,Paeniglutamicibacter gangotriensis\par,,"petroleum-contaminated soil collected\par
+                     near the petroleum pumping and storage warehouse at the\par
+                     Henryk Arctowski Polish Antarctic Station",,"Antarctica: King George Island, Admiralty Bay"
+26,TXE20310.1\par,BioProject: PRJNA516484\par,accession VOSB01000001.1\par,Psychroserpens burtonensis\par,,polar saline lagoon,,"Antarctica:Vestfold Hills, Lake Burton"
+27,TXE20309.1\par,BioProject: PRJNA516484\par,accession VOSB01000001.1\par,Psychroserpens burtonensis\par,,polar saline lagoon,,"Antarctica:Vestfold Hills, Lake Burton"
+28,TXE18566.1\par,BioProject: PRJNA516484\par,accession VOSB01000007.1\par,Psychroserpens burtonensis\par,,polar saline lagoon,,"Antarctica:Vestfold Hills, Lake Burton"
+29,TXE18104.1\par,BioProject: PRJNA516484\par,accession VOSB01000009.1\par,Psychroserpens burtonensis\par,,polar saline lagoon,,"Antarctica:Vestfold Hills, Lake Burton"
+30,TXE02966.1\par,BioProject: PRJNA516244\par,accession VORW01000028.1\par,Algoriphagus aquimarinus\par,,oil-contaminated Antarctic beach sand,,Antarctica: Vestfold Hills
+31,TXD74355.1\par,BioProject: PRJNA516237\par,accession VORT01000002.1\par,Aequorivita antarctica\par,,Antarctic seawater,,Antarctica: Prydz Bay
+32,TXD72124.1\par,BioProject: PRJNA516237\par,accession VORT01000010.1\par,Aequorivita antarctica\par,,Antarctic seawater,,Antarctica: Prydz Bay
+33,TXD65826.1\par,BioProject: PRJNA516255\par,accession VORP01000005.1\par,Polaribacter glomeratus\par,,Antarctic saline lagoon,,"Antarctica:Vestfold Hills, Burton Lake"
+34,TXD64491.1\par,BioProject: PRJNA516255\par,accession VORP01000012.1\par,Polaribacter glomeratus\par,,Antarctic saline lagoon,,"Antarctica:Vestfold Hills, Burton Lake"
+35,TXD64490.1\par,BioProject: PRJNA516255\par,accession VORP01000012.1\par,Polaribacter glomeratus\par,,Antarctic saline lagoon,,"Antarctica:Vestfold Hills, Burton Lake"
+36,TXD64412.1\par,BioProject: PRJNA516255\par,accession VORP01000013.1\par,Polaribacter glomeratus\par,,Antarctic saline lagoon,,"Antarctica:Vestfold Hills, Burton Lake"
+37,TXD63814.1\par,BioProject: PRJNA516255\par,accession VORP01000019.1\par,Polaribacter glomeratus\par,,Antarctic saline lagoon,,"Antarctica:Vestfold Hills, Burton Lake"
+38,TXD56320.1\par,BioProject: PRJNA516257\par,accession VORR01000074.1\par,Polaribacter sp. IC066\par,,sea ice algal assemblage,,Antarctica: Prydz Bay
+39,TXD52019.1\par,BioProject: PRJNA516257\par,accession VORQ01000022.1\par,Polaribacter sp. IC063\par,,sea ice algal assemblage,,Antarctica: Prydz Bay
+40,TXD47637.1\par,BioProject: PRJNA516257\par,accession VORS01000006.1\par,Polaribacter sp. IC073\par,,sea ice algal assemblage,,Antarctica: Prydz Bay
+41,TWX68272.1\par,BioProject: PRJNA516287\par,accession VOLS01000042.1\par,Colwellia sp. C1TZA3\par,,sea ice algal assemblage,,Antarctica: Prydz Bay
+42,TWX68271.1\par,BioProject: PRJNA516287\par,accession VOLS01000042.1\par,Colwellia sp. C1TZA3\par,,sea ice algal assemblage,,Antarctica: Prydz Bay
+43,TWX39936.1\par,BioProject: PRJNA516481\par,accession VOLO01000001.1\par,Frigoribacterium sp. ACAM 257\par,,"surface water of Organic Lake\par
+                     Antarctica",,Antarctica: Vestfold Hills
+44,TRW18302.1\par,BioProject: PRJNA552766\par,accession VJWA01000001.1\par,Glacieibacterium frigidum\par,,glacier,,China
+45,TQS29603.1\par,BioProject: PRJNA552303\par,accession VIRJ01000004.1\par,Microbispora sp. KK1-11\par,,soil,,Thailand: Ubon ratchathani
+46,TQC99146.1\par,BioProject: PRJNA488537\par,accession VIAD01000002.1\par,Moraxellaceae bacterium AER2_44_116\par,,enrichment culture,,Hungary: Bugyi
+47,TNC75369.1\par,BioProject: PRJNA546016\par,accession VDGE01000008.1\par,Janthinobacterium lividum\par,,Tofu submerged in tap water,,"USA: Davis, California"
+48,TLP80293.1\par,BioProject: PRJNA516506\par,accession VAUW01000009.1\par,Maribacter sp. ACAM166\par,,Lake Burton (Antarctic saline lagoon),,Antarctica: Vestfold Hills
+49,TLP80291.1\par,BioProject: PRJNA516506\par,accession VAUW01000009.1\par,Maribacter sp. ACAM166\par,,Lake Burton (Antarctic saline lagoon),,Antarctica: Vestfold Hills
+50,TLP71812.1\par,BioProject: PRJNA516506\par,accession VAUW01000048.1\par,Maribacter sp. ACAM166\par,,Lake Burton (Antarctic saline lagoon),,Antarctica: Vestfold Hills
+51,TLP70545.1\par,BioProject: PRJNA516506\par,accession VAUW01000068.1\par,Maribacter sp. ACAM166\par,,Lake Burton (Antarctic saline lagoon),,Antarctica: Vestfold Hills
+52,TLD71878.1\par,BioProject: PRJNA540970\par,accession VAUV01000003.1\par,Phragmitibacter flavus\par,,water,,Hungary: Lake Ferto
+53,TKT90960.1\par,BioProject: PRJNA540903\par,accession SZVO01000008.1\par,Dyadobacter frigoris\par,,soil,,Svalbard: Jan Mayen
+54,TKC57211.1\par,BioProject: PRJNA534406\par,accession SWDX01000010.1\par,Pedobacter hiemivivus\par,,Arctic Soil,,Svalbard: Spitsbergen
+55,TKA97993.1\par,BioProject: PRJNA309469\par,accession SWAU01000015.1\par,Cereibacter changlensis\par,,ocean sediment,,India: Arabian Sea
+56,TIH40891.1\par,BioProject: PRJNA491396\par,accession QYRT01000001.1\par,Subtercola vilae\par,,volcano lake,,Chile: Llullaillaco volcano
+57,TIH40597.1\par,BioProject: PRJNA491396\par,accession QYRT01000002.1\par,Subtercola vilae\par,,volcano lake,,Chile: Llullaillaco volcano
+58,TDH24612.1\par,BioProject: PRJNA522342\par,accession SMSK01000009.1\par,Segetibacter sp. 3557_3\par,,Tibetan Plateau glacier,,China
+59,TDH24611.1\par,BioProject: PRJNA522342\par,accession SMSK01000009.1\par,Segetibacter sp. 3557_3\par,,Tibetan Plateau glacier,,China
+60,TDE48548.1\par,BioProject: PRJNA524983\par,accession SMLF01000016.1\par,Flavobacterium sp. GT3P67\par,,glacier,,China
+61,TDE48547.1\par,BioProject: PRJNA524983\par,accession SMLF01000016.1\par,Flavobacterium sp. GT3P67\par,,glacier,,China
+62,TDE48546.1\par,BioProject: PRJNA524983\par,accession SMLF01000016.1\par,Flavobacterium sp. GT3P67\par,,glacier,,China
+63,TDE48545.1\par,BioProject: PRJNA524983\par,accession SMLF01000016.1\par,Flavobacterium sp. GT3P67\par,,glacier,,China
+64,TDE48489.1\par,BioProject: PRJNA524983\par,accession SMLF01000017.1\par,Flavobacterium sp. GT3P67\par,,glacier,,China
+65,TDE30641.1\par,BioProject: PRJNA524992\par,accession SMLH01000002.1\par,Flavobacterium ranwuense\par,,glacier,,China
+66,TDE30545.1\par,BioProject: PRJNA524992\par,accession SMLH01000002.1\par,Flavobacterium ranwuense\par,,glacier,,China
+67,TDE26870.1\par,BioProject: PRJNA524992\par,accession SMLH01000014.1\par,Flavobacterium ranwuense\par,,glacier,,China
+68,TDE26869.1\par,BioProject: PRJNA524992\par,accession SMLH01000014.1\par,Flavobacterium ranwuense\par,,glacier,,China
+69,TDE26868.1\par,BioProject: PRJNA524992\par,accession SMLH01000014.1\par,Flavobacterium ranwuense\par,,glacier,,China
+70,TDE26867.1\par,BioProject: PRJNA524992\par,accession SMLH01000014.1\par,Flavobacterium ranwuense\par,,glacier,,China
+71,TDE15476.1\par,BioProject: PRJNA524939\par,accession SMFL01000004.1\par,Dyadobacter psychrotolerans\par,,Arctic soil,,Svalbard: Jan Mayen
+72,TDE01586.1\par,BioProject: PRJNA524944\par,accession SMFO01000015.1\par,Flavobacterium hiemivividum\par,,Arctic soil,,Svalbard: Jan Mayen
+73,TDD93541.1\par,BioProject: PRJNA524938\par,accession SMFK01000026.1\par,Flavobacterium cellulosilyticum\par,,Arctic soil,,Svalbard: Jan Mayen
+74,TDD75483.1\par,BioProject: PRJNA524940\par,accession SMFM01000005.1\par,Flavobacterium caseinilyticum\par,,Arctic soil,,Svalbard: Jan Mayen
+75,TDB40058.1\par,BioProject: PRJNA475330\par,accession RCMW01000001.1\par,Deltaproteobacteria bacterium\par,1MN72D_58_314,"1-methylnaphthalene degrading\par
+                     enrichment culture",groundwater metagenome,Germany: Munich
+76,TDB31894.1\par,BioProject: PRJNA475330\par,accession RCMW01000018.1\par,Deltaproteobacteria bacterium\par,1MN72D_58_314,"1-methylnaphthalene degrading\par
+                     enrichment culture",groundwater metagenome,Germany: Munich
+77,TAA73777.1\par,BioProject: PRJNA389779\par,accession NQJD01000061.1\par,Candidatus Electronema aureum\par,GS,freshwater sediment,freshwater sediment metagenome,Denmark: Vennelystparken
+78,TAA73776.1\par,BioProject: PRJNA389779\par,accession NQJD01000061.1\par,Candidatus Electronema aureum\par,GS,freshwater sediment,freshwater sediment metagenome,Denmark: Vennelystparken
+79,RZM17845.1\par,BioProject: PRJNA272922\par,accession SEDD01002232.1\par,Pedobacter sp.\par,PMG_071,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+80,RZM02716.1\par,BioProject: PRJNA272922\par,accession SEDD01004084.1\par,Pedobacter sp.\par,PMG_071,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+81,RZL15041.1\par,BioProject: PRJNA272922\par,accession SEDE01000753.1\par,Pedobacter sp.\par,PMG_080,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+82,RZL06363.1\par,BioProject: PRJNA272922\par,accession SEDE01001645.1\par,Pedobacter sp.\par,PMG_080,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+83,RZL04896.1\par,BioProject: PRJNA272922\par,accession SEDE01002004.1\par,Pedobacter sp.\par,PMG_080,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+84,RZJ84716.1\par,BioProject: PRJNA272922\par,accession SEAO01000925.1\par,Chryseobacterium sp.\par,PMG_151,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+85,RZJ63276.1\par,BioProject: PRJNA272922\par,accession SEBN01000959.1\par,Flavobacterium sp.\par,PMG_175,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+86,RZI68714.1\par,BioProject: PRJNA272922\par,accession SEGQ01000024.1\par,Variovorax sp.\par,PMG_173,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+87,RYZ80231.1\par,BioProject: PRJNA272922\par,accession SEDT01001870.1\par,Pseudomonadota bacterium\par,PMG_079,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+88,RYZ52079.1\par,BioProject: PRJNA272922\par,accession SEFM01000483.1\par,Sphingobacteriales bacterium\par,PMG_105,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+89,RYZ43192.1\par,BioProject: PRJNA272922\par,accession SECN01000021.1\par,Myxococcaceae bacterium\par,PMG_225,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+90,RYX96830.1\par,BioProject: PRJNA272922\par,accession SEAW01000005.1\par,Comamonadaceae bacterium\par,PMG_213,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+91,RYM35443.1\par,BioProject: PRJNA515955\par,accession SETE01000001.1\par,Brumimicrobium glaciale\par,,coastal sea-ice,,Antarctica: Vestfold Hills
+92,RYM34020.1\par,BioProject: PRJNA515955\par,accession SETE01000003.1\par,Brumimicrobium glaciale\par,,coastal sea-ice,,Antarctica: Vestfold Hills
+93,RYM33387.1\par,BioProject: PRJNA515955\par,accession SETE01000004.1\par,Brumimicrobium glaciale\par,,coastal sea-ice,,Antarctica: Vestfold Hills
+94,RYG34049.1\par,BioProject: PRJNA272922\par,accession SDZB01000305.1\par,bacterium\par,PMG_168,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+95,RYF63330.1\par,BioProject: PRJNA272922\par,accession SEBH01001916.1\par,Cytophagaceae bacterium\par,PMG_052,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+96,RYF10642.1\par,BioProject: PRJNA272922\par,accession SEBK01001191.1\par,Flavobacteriales bacterium\par,PMG_204,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+97,RYE87890.1\par,BioProject: PRJNA272922\par,accession SECR01001194.1\par,Myxococcales bacterium\par,PMG_253,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+98,RYE21456.1\par,BioProject: PRJNA272922\par,accession SEFO01000333.1\par,Sphingobacteriales bacterium\par,PMG_130,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+99,RYE01785.1\par,BioProject: PRJNA272922\par,accession SEFN01000045.1\par,Sphingobacteriales bacterium\par,PMG_127,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+100,RYD95752.1\par,BioProject: PRJNA272922\par,accession SEFR01000265.1\par,Sphingobacteriales bacterium\par,PMG_182,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+101,RYD89189.1\par,BioProject: PRJNA272922\par,accession SEFR01001417.1\par,Sphingobacteriales bacterium\par,PMG_182,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+102,RYD72207.1\par,BioProject: PRJNA272922\par,accession SEGV01001656.1\par,Verrucomicrobiaceae bacterium\par,PMG_096,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+103,RYD34344.1\par,BioProject: PRJNA272922\par,accession SEGW01001973.1\par,Verrucomicrobiaceae bacterium\par,PMG_170,"Deciduous woodland, University campus",phyllosphere metagenome,United Kingdom: Norwich
+104,RWZ79894.1\par,BioProject: PRJNA415522\par,accession SCKZ01000012.1\par,Glutamicibacter sp. HZAU\par,,marine soil,,China: Fujian Province
+105,RUQ85589.1\par,BioProject: PRJNA511609\par,accession RZGY01000001.1\par,Labedella gwakjiensis\par,,dried seaweed,,South Korea: Jeju
+106,RUQ04079.1\par,BioProject: PRJNA492917\par,accession RBLU01000061.1\par,Curtobacterium sp. HSID17257\par,,nasal lavage,,USA: Wisconsin
+107,RST83495.1\par,BioProject: PRJNA508824\par,accession RWKW01000102.1\par,Aquibium carbonis\par,,coal mine water,,China: Jincheng
+108,RRK00853.1\par,BioProject: PRJNA321366\par,accession LXWT02000003.1\par,Opitutaceae bacterium TAV3\par,,,,
+109,RRJ96913.1\par,BioProject: PRJNA321367\par,accession LXWU02000003.1\par,Opitutaceae bacterium TAV4\par,,,,
+110,RJT87700.1\par,BioProject: PRJNA492816\par,accession QZVS01000088.1\par,Cryobacterium melibiosiphilum\par,,glacier ice,,China
+111,RJT86918.1\par,BioProject: PRJNA492816\par,accession QZVS01000093.1\par,Cryobacterium melibiosiphilum\par,,glacier ice,,China
+112,RIY12419.1\par,BioProject: PRJNA486440\par,accession QYCN01000005.1\par,Hymenobacter rubripertinctus\par,,soil,,"Antarctica: Antarctic Ross Orogen, Northern\par
+                     Victoria Land, Inexpressible Island"
+113,REL32903.1\par,BioProject: PRJNA484834\par,accession QUOK01000007.1\par,Rhodohalobacter sp. SW132\par,,soil,,China: Shanxi Province
+114,REK72652.1\par,BioProject: PRJNA484549\par,accession QUBR01000001.1\par,Aeromicrobium endophyticum\par,,plant,,China: Guizhou
+115,KJE24366.1\par,BioProject: PRJNA248409\par,accession JYFN01000007.1\par,Frankia torreyi\par,,nodules,,"USA: Petersham, MA"
+116,RDV13082.1\par,BioProject: PRJNA484133\par,accession QRGR01000029.1\par,Pontibacter diazotrophicus\par,,desert,,China: Xinjiang
+117,RDV13078.1\par,BioProject: PRJNA484133\par,accession QRGR01000029.1\par,Pontibacter diazotrophicus\par,,desert,,China: Xinjiang
+118,RDV11536.1\par,BioProject: PRJNA484133\par,accession QRGR01000040.1\par,Pontibacter diazotrophicus\par,,desert,,China: Xinjiang
+119,PZF52212.1\par,BioProject: PRJNA391502\par,accession QKSW01000009.1\par,Curtobacterium sp. MCLR17_057\par,,leaf litter,,USA: California
+120,PZF26840.1\par,BioProject: PRJNA391502\par,accession QKTB01000009.1\par,Curtobacterium sp. MCLR17_045\par,,leaf litter,,USA: California
+121,PZE94523.1\par,BioProject: PRJNA391502\par,accession QKTK01000003.1\par,Curtobacterium sp. MCBD17_008\par,,leaf litter,,USA: California
+122,PZE82720.1\par,BioProject: PRJNA391502\par,accession QKTO01000007.1\par,Curtobacterium sp. MCBD17_032\par,,leaf litter,,USA: California
+123,PZE72177.1\par,BioProject: PRJNA391502\par,accession QKSU01000001.1\par,Curtobacterium sp. MCLR17_059\par,,leaf litter,,USA: California
+124,PZE28435.1\par,BioProject: PRJNA391502\par,accession QKTD01000006.1\par,Curtobacterium sp. MCLR17_042\par,,leaf litter,,USA: California
+125,PYY56618.1\par,BioProject: PRJNA391502\par,accession QKLF01000002.1\par,Curtobacterium sp. MCJR17_055\par,,leaf litter,,USA: California
+126,PYY56227.1\par,BioProject: PRJNA391502\par,accession QKLD01000010.1\par,Curtobacterium sp. MCPF17_015\par,,leaf litter,,USA: California
+127,PYY41638.1\par,BioProject: PRJNA391502\par,accession QKLB01000003.1\par,Curtobacterium sp. MCPF17_046\par,,leaf litter,,USA: California
+128,PYY37591.1\par,BioProject: PRJNA391502\par,accession QKLK01000001.1\par,Curtobacterium sp. MCBD17_029\par,,leaf litter,,USA: California
+129,PYO91544.1\par,BioProject: PRJNA449266\par,accession QHUB01000101.1\par,Gemmatimonadota bacterium\par,AG38,meadow soil,soil metagenome,"USA: Angelo Coast Range Reserve, CA"
+130,AVH66972.1\par,BioProject: PRJNA279350\par,accession CP026681.1\par,Nostoc sp. 'Peltigera membranacea cyanobiont' N6\par,,Peltigera membranacea thallus,,"Iceland: Keldur, Reykjavik"
+131,KQM06758.1\par,BioProject: PRJNA248467\par,accession LJJX01000006.1\par,Frankia sp. CpI1-P\par,,Nodules,,"USA: Petersham, MA"
+132,KPI27050.1\par,BioProject: PRJNA271678\par,accession LJCX01000028.1\par,Actinobacteria bacterium OV320\par,,"Endosphere of plant Populus trichocarpa\par
+                     BESC137",,"USA: Corvallis, Oregon"
+133,AGA28501.1\par,BioProject: PRJNA52461\par,accession CP003364.1\par,Singulisphaera acidiphila DSM 18658\par,,"sphagnum peat from the bog Obukhovskoe\par
+                     (acidic wetland)",,Russia
+134,AFL81454.1\par,BioProject: PRJNA46631\par,accession CP003280.1\par,Aequorivita sublithincola DSM 14238\par,,sea water,,Antarctica: Vestfold Hills
+135,AFL89116.1\par,BioProject: PRJNA63509\par,accession CP003379.1\par,Terriglobus roseus DSM 18391\par,,"soil from a never-tilled successional\par
+                     plant community",,"USA: Michigan State University Kellogg\par
+                     Biological Station Long-Term Ecological Research Site, MI"
+136,EIM31420.1\par,BioProject: PRJNA56115\par,accession JH660684.1\par,Leptothrix ochracea L12\par,,,,"USA: Boothbay Harbor, Maine"
+137,EIM31419.1\par,BioProject: PRJNA56115\par,accession JH660684.1\par,Leptothrix ochracea L12\par,,,,"USA: Boothbay Harbor, Maine"
+138,EIF33063.1\par,BioProject: PRJNA40819\par,accession JH603159.1\par,Burkholderia sp. Ch1-1\par,,soil,,
+139,AEV28729.1\par,BioProject: PRJNA50049\par,accession CP003155.1\par,Sphaerochaeta pleomorpha str. Grapes\par,,"aquatic, fresh water, sediment",,USA: Michigan
+140,CAK8713861.1\par,BioProject: PRJEB52550\par,embl accession OW818638.1\par,Candidatus Electronema aureum\par,ENR-cMAG,Laboratory enrichment culture,,
+141,QDM27027.1\par,BioProject: PRJNA548505\par,accession CP041402.1\par,Tardiphaga sp. vice304\par,,surface glacier,,"Greenland: Little Firn glacier in the Knuths\par
+                     Fjeld area"
+142,WIG97643.1\par,BioProject: PRJNA726849\par,accession CP077414.1\par,Myxococcus sp. SDU36\par,,sediment samples of Dongcuo Lake,,"China: Ngari, Tibet"
+143,QMS98831.1\par,BioProject: PRJNA647664\par,accession CP059472.1\par,Marnyiella aurantia\par,,soil,,China: Qinghai Province
+144,WBM80914.1\par,BioProject: PRJNA729999\par,accession CP075584.1\par,Cryobacterium breve\par,,Glacier water sample,,India
+145,WAG63125.1\par,BioProject: PRJNA735695\par,accession CP086239.1\par,Clostridium estertheticum\par,,bovine feces,,Switzerland: Zurich
+146,BDQ18755.1\par,BioProject: PRJDB13588\par,accession AP026691.1\par,Rhodococcus qingshengii\par,,cruid oil,,Japan
+147,UUK65995.1\par,BioProject: PRJNA784602\par,accession CP088266.1\par,Clavibacter sepedonicus\par,,,,USA: New York
+148,UQG70786.1\par,BioProject: PRJNA540708\par,accession CP092289.1\par,Marinobacter sp. M1C\par,,Cryopeg brine water,,"USA: Utqiagvik, Alaska CRREL Permafrost Tunnel"
+149,UQG68149.1\par,BioProject: PRJNA540708\par,accession CP092289.1\par,Marinobacter sp. M1C\par,,Cryopeg brine water,,"USA: Utqiagvik, Alaska CRREL Permafrost Tunnel"
+150,UQG66506.1\par,BioProject: PRJNA540708\par,accession CP092288.1\par,Marinobacter sp. M2C\par,,Cryopeg brine water,,"USA: Utqiagvik, Alaska CRREL Permafrost Tunnel"
+151,UQG63866.1\par,BioProject: PRJNA540708\par,accession CP092288.1\par,Marinobacter sp. M2C\par,,Cryopeg brine water,,"USA: Utqiagvik, Alaska CRREL Permafrost Tunnel"
+152,UQG61106.1\par,BioProject: PRJNA540708\par,accession CP092284.1\par,Marinobacter sp. M3C\par,,Cryopeg brine water,,"USA: Utqiagvik, Alaska CRREL Permafrost Tunnel"
+153,UQG59585.1\par,BioProject: PRJNA540708\par,accession CP092284.1\par,Marinobacter sp. M3C\par,,Cryopeg brine water,,"USA: Utqiagvik, Alaska CRREL Permafrost Tunnel"
+154,UQG57701.1\par,BioProject: PRJNA540708\par,accession CP092283.1\par,Marinobacter sp. M4C\par,,Cryopeg brine water,,"USA: Utqiagvik, Alaska CRREL Permafrost Tunnel"
+155,UQG55065.1\par,BioProject: PRJNA540708\par,accession CP092283.1\par,Marinobacter sp. M4C\par,,Cryopeg brine water,,"USA: Utqiagvik, Alaska CRREL Permafrost Tunnel"
+156,UQD55847.1\par,BioProject: PRJNA561677\par,accession CP056783.1\par,Flavobacterium sp. K5-23\par,,marine sediment,,Arctic Ocean
+157,UPL12990.1\par,BioProject: PRJNA741065\par,accession CP078077.1\par,Microbacterium galbinum\par,,dried seaweed,,South Korea: Jeju
+158,QDL36784.1\par,BioProject: PRJNA517230\par,accession CP035503.1\par,Rhodoferax sediminis\par,,Freshwater sediment,,South Korea
+159,UOA07675.1\par,BioProject: PRJNA732575\par,accession CP076024.1\par,Methylobacter sp. S3L5C\par,,hypoxic lake water,,"Finland: Lake Lovojarvi, Lammi (Hameenlinna)"
+160,UNC91197.1\par,BioProject: PRJNA638041\par,accession CP054699.1\par,Candidatus Contubernalis alkalaceticus\par,,"Khadyn soda lake, Tyva Republic,\par
+                     Russia",,Russia: Tyva Republic
+161,AZI58340.1\par,BioProject: PRJNA506810\par,accession CP034170.1\par,Nakamurella antarctica\par,,soil,,China
+162,UMX48439.1\par,BioProject: PRJNA802382\par,accession CP092821.1\par,Candidatus Nealsonbacteria bacterium DGGOD1a\par,DGGOD1a,"Lab enriched sediment microbial\par
+                     communities from oil refinery",sediment metagenome,USA: Oklahoma
+163,QYI95985.1\par,BioProject: PRJNA734343\par,accession CP080395.1\par,Curtobacterium flaccumfaciens pv. flaccumfaciens\par,,bean blight,,USA: South Dakota
+164,QXG75408.1\par,BioProject: PRJNA734343\par,accession CP077800.1\par,Modestobacter sp. L9-4\par,,Stratosphere,,USA: New Mexico
+165,UGB36565.1\par,BioProject: PRJNA784401\par,accession CP088261.1\par,Microbacterium sp. cx-55\par,cx-55,faecal of marmot,,China:Qinghai province
+166,UEG95709.1\par,BioProject: PRJNA774437\par,accession CP086217.1\par,Streptomyces lydicus\par,,soil,,China:Nanjing
+167,UDL96664.1\par,BioProject: PRJNA768963\par,accession CP085136.1\par,Lichenihabitans sp. PAMC28606\par,,soil,,Uganda
+168,UAW98359.1\par,BioProject: PRJNA725069\par,accession CP073751.1\par,Halopseudomonas nanhaiensis\par,,deep-sea sediment,,China: the South China Sea
+169,UAL66044.1\par,BioProject: PRJNA759542\par,accession CP082945.1\par,Streptomyces angustmyceticus\par,,,,
+170,QZY20091.1\par,BioProject: PRJNA758235\par,accession CP082301.1\par,Streptomyces decoyicus\par,,,,
+171,QZY20090.1\par,BioProject: PRJNA758235\par,accession CP082301.1\par,Streptomyces decoyicus\par,,,,
+172,QZQ54385.1\par,BioProject: PRJNA748736\par,accession CP081964.1\par,Curtobacterium sp. TC1\par,,seed coat,,USA: Virginia
+173,QYF96767.1\par,BioProject: PRJNA748191\par,accession CP080381.1\par,Microbacterium sp. PAMC21962\par,,,,Antarctica
+174,QYF73669.1\par,BioProject: PRJNA748196\par,accession CP080383.1\par,Cryobacterium sp. PAMC25264\par,,,,Antarctica
+175,QXC61082.1\par,BioProject: PRJNA739517\par,accession CP077604.1\par,Aquihabitans sp. G128\par,,ginseng field soil,,South Korea: yeongju
+176,QWZ07829.1\par,BioProject: PRJNA738637\par,accession CP077062.1\par,Nocardioides panacis\par,,ginseng field soil,,South Korea: yeongju
+177,QWT22769.1\par,BioProject: PRJNA736188\par,accession CP076547.1\par,Subtercola sp. PAMC28395\par,,soil,,Uganda
+178,QWS33520.1\par,BioProject: PRJNA734343\par,accession CP076544.1\par,Curtobacterium sp. L6-1\par,,ENVO:01001711,,USA: New Mexico
+179,QWF69396.1\par,BioProject: PRJNA724036\par,accession CP073754.1\par,Methylomonas paludis\par,,water,,"Finland: Evo, Lake Alinen Mustajarvi"
+180,QWF69395.1\par,BioProject: PRJNA724036\par,accession CP073754.1\par,Methylomonas paludis\par,,water,,"Finland: Evo, Lake Alinen Mustajarvi"
+181,QWE02172.1\par,BioProject: PRJNA295639\par,accession CP061306.1\par,Polynucleobacter sp. JS-JIR-II-b4\par,,freshwater,,Czech Republic: Jiricka
+182,QWC17307.1\par,BioProject: PRJNA732517\par,accession CP076023.1\par,Cellulomonas dongxiuzhuiae\par,,feces,,China: Qinghai Province
+183,QKY07207.1\par,BioProject: PRJNA610480\par,accession CP049828.1\par,Janthinobacterium lividum\par,,water pond,,Germany: Goettingen
+184,QKY01713.1\par,BioProject: PRJNA605963\par,accession CP048832.1\par,Janthinobacterium lividum\par,,oligrotrophic pond,,Germany: Oligtrophic pond in Goettingen
+185,QVI66743.1\par,BioProject: PRJNA727675\par,accession CP074404.1\par,Cellulomonas fengjieae\par,,feces,,China: Qinghai Province
+186,QVI63625.1\par,BioProject: PRJNA727676\par,accession CP074405.1\par,Cellulomonas wangleii\par,,feces,,China: Qinghai Province
+187,QTR91052.1\par,BioProject: PRJNA687999\par,accession CP071883.1\par,Curtobacterium flaccumfaciens pv. flaccumfaciens\par,,,,Australia: Queensland
+188,TFC49694.1\par,BioProject: PRJNA527682\par,accession SOFY01000026.1\par,Cryobacterium shii\par,,glacier,,China
+189,QTE30813.1\par,BioProject: PRJNA714484\par,accession CP071868.1\par,Pengzhenrongella sicca\par,,soil,,Arctic Ocean
+190,QTE29512.1\par,BioProject: PRJNA714484\par,accession CP071868.1\par,Pengzhenrongella sicca\par,,soil,,Arctic Ocean
+191,VFJ60388.1\par,BioProject: PRJEB25374\par,embl accession CAADEX010000092.1\par,Candidatus Kentron sp. DK\par,BECK_DK47,Kentrophoros sp. DK,ciliate metagenome,
+192,VFJ62431.1\par,BioProject: PRJEB25374\par,embl accession CAADEX010000110.1\par,Candidatus Kentron sp. DK\par,BECK_DK47,Kentrophoros sp. DK,ciliate metagenome,
+193,VFJ62427.1\par,BioProject: PRJEB25374\par,embl accession CAADEX010000110.1\par,Candidatus Kentron sp. DK\par,BECK_DK47,Kentrophoros sp. DK,ciliate metagenome,
+194,VFJ66213.1\par,BioProject: PRJEB25374\par,embl accession CAADEX010000163.1\par,Candidatus Kentron sp. DK\par,BECK_DK47,Kentrophoros sp. DK,ciliate metagenome,
+195,VFJ57187.1\par,BioProject: PRJEB25374\par,embl accession CAADEY010000058.1\par,Candidatus Kentron sp. DK\par,BECK_DK161,Kentrophoros sp. DK,ciliate metagenome,
+196,VFJ57182.1\par,BioProject: PRJEB25374\par,embl accession CAADEY010000058.1\par,Candidatus Kentron sp. DK\par,BECK_DK161,Kentrophoros sp. DK,ciliate metagenome,
+197,VFJ66423.1\par,BioProject: PRJEB25374\par,embl accession CAADEY010000147.1\par,Candidatus Kentron sp. DK\par,BECK_DK161,Kentrophoros sp. DK,ciliate metagenome,
+198,VFJ66415.1\par,BioProject: PRJEB25374\par,embl accession CAADEY010000147.1\par,Candidatus Kentron sp. DK\par,BECK_DK161,Kentrophoros sp. DK,ciliate metagenome,
+199,QSB22772.1\par,BioProject: PRJNA693803\par,accession CP068987.1\par,Curtobacterium sp. 24E2\par,,flower stigma,,"USA: Connecticut, Hamden"
+200,QRX84722.1\par,BioProject: PRJNA698716\par,accession CP070304.1\par,Glaciimonas sp. PAMC28666\par,,,,Antarctica
+201,SCK23954.1\par,BioProject: PRJEB14428\par,embl accession FMHL01000015.1\par,Streptomyces sp. SceaMP-e96\par,,,,
+202,QRP50666.1\par,BioProject: PRJNA231221\par,accession CP069526.1\par,Amycolatopsis sp. FDAARGOS 1241\par,,,,USA: MD
+203,QQS19763.1\par,BioProject: PRJNA629478\par,accession CP064993.1\par,Candidatus Saccharibacteria bacterium\par,Hirt_18-Q3-R61-65_MAXAC.330_cln,"activated sludge from\par
+                     Hirt_18-Q3-R61-65",activated sludge metagenome,Denmark: Hirtshals
+204,QQR72572.1\par,BioProject: PRJNA629478\par,accession CP064972.1\par,Holophagales bacterium\par,EsbW_18-Q3-R4-48_BAT3C.4_cln,activated sludge from EsbW_18-Q3-R4-48,activated sludge metagenome,Denmark: Esbjerg W
+205,QOY90678.1\par,BioProject: PRJNA672985\par,accession CP063849.1\par,Paludibaculum fermentans\par,,,,"Russia: Valaam Island, Karelia"
+206,QOC26900.1\par,BioProject: PRJNA656092\par,accession CP061344.1\par,Microbacterium hominis\par,,,,
+207,QNK80390.1\par,BioProject: PRJNA656652\par,accession CP060298.1\par,Nakamurella sp. PAMC28650\par,,soil,,Antarctica
+208,QDQ25507.1\par,BioProject: PRJNA554229\par,accession CP041730.1\par,Chitinimonas arctica\par,,arctica soil,,Norway
+209,TQJ75648.1\par,BioProject: PRJNA536285\par,accession VFNC01000003.1\par,Streptomyces sp. SLBN-31\par,,,,USA: California
+210,QNH60540.1\par,BioProject: PRJNA654601\par,accession CP060202.1\par,Hymenobacter sediminicola\par,,freshwater sediment,,China
+211,QNF32493.1\par,BioProject: PRJNA639429\par,accession CP055156.1\par,Adhaeribacter swui\par,,Mud,,South Korea: Boryeong
+212,QMU74467.1\par,BioProject: PRJNA603514\par,accession CP048405.1\par,Streptacidiphilus sp. PB12-B1b\par,,Decaying wood,,Netherlands: Wageningen
+213,QMU30651.1\par,BioProject: PRJNA639424\par,accession CP055153.1\par,Adhaeribacter radiodurans\par,,rhizospheric soil,,South Korea: Dokdo
+214,QKS86298.1\par,BioProject: PRJNA551505\par,accession CP041259.1\par,Curtobacterium flaccumfaciens pv. flaccumfaciens\par,,,,Turkey
+215,QKV73890.1\par,BioProject: PRJNA636927\par,accession CP054925.1\par,Amycolatopsis sp. Hca4\par,,,,"China:Nanjing, Zijing Mountain"
+216,QKJ63628.1\par,BioProject: PRJNA634988\par,accession CP054141.1\par,Flavobacterium sp. M31R6\par,,,,South Korea
+217,QIZ97408.1\par,BioProject: PRJNA623553\par,accession CP051154.1\par,Leifsonia sp. PS1209\par,,tuber,,"USA: Ithaca, New York"
+218,QFS79430.2\par,BioProject: PRJNA577239\par,accession CP045287.2\par,Curtobacterium flaccumfaciens pv. flaccumfaciens\par,,Dry beans,,Iran
+219,QHL88544.1\par,BioProject: PRJNA601076\par,accession CP047897.1\par,Nibribacter ruber\par,,soil,,South Korea: Pyeongchang-gun
+220,QGQ18331.1\par,BioProject: PRJNA345401\par,accession CP045245.1\par,Cellulomonas sp. JZ18\par,,plant,,Saudi Arabia: Jizan
+221,QGN46542.1\par,BioProject: PRJNA589828\par,accession CP046104.1\par,Micromonospora sp. WMMC415\par,,,,USA:Florida Keys
+222,QFY56849.1\par,BioProject: PRJNA497361\par,accession CP033116.1\par,Halopseudomonas pelagia\par,,,,Svalbard:Norway
+223,KAB8187240.1\par,BioProject: PRJNA546067\par,accession VDMA02000002.1\par,Microbispora catharanthi\par,,root,,Thailand: Bangkok
+224,KAB2914335.1\par,BioProject: PRJNA573876\par,accession WBUH01000015.1\par,Bacteroidota bacterium\par,SB11,"biomass on anode of bioreactor after 21\par
+                     days",bioanode metagenome,Netherlands: Ooijpolder
+225,KAB2816689.1\par,BioProject: PRJNA573876\par,accession WBVK01000334.1\par,Paludibacter sp.\par,SB40,"biomass on anode of bioreactor after 21\par
+                     days",bioanode metagenome,Netherlands: Ooijpolder
+226,KAB0331132.1\par,BioProject: PRJNA565495\par,accession VZAB01000001.1\par,Janthinobacterium lividum\par,,,,Russia: Lake Baikal
+227,KAA9107507.1\par,BioProject: PRJNA543373\par,accession VYSA01000002.1\par,Microbacterium rhizomatis\par,,environmental,,
+228,KAA6431089.1\par,BioProject: PRJNA554732\par,accession VKKZ01000024.1\par,Rufibacter glacialis\par,,glacier soil,,China
+229,KAA6431032.1\par,BioProject: PRJNA554732\par,accession VKKZ01000024.1\par,Rufibacter glacialis\par,,glacier soil,,China
+230,KAA6430748.1\par,BioProject: PRJNA554732\par,accession VKKZ01000025.1\par,Rufibacter glacialis\par,,glacier soil,,China
+231,KAA5549086.1\par,BioProject: PRJNA563782\par,accession VWSF01000001.1\par,Adhaeribacter rhizoryzae\par,,Plant,,South Korea
+232,KAA5532194.1\par,BioProject: PRJNA564190\par,accession VWSH01000004.1\par,Taibaiella lutea\par,,Plant,,South Korea: Ilsan
+233,KAA3440678.1\par,BioProject: PRJNA554585\par,accession VKKY01000001.1\par,Rufibacter hautae\par,,sediment,,China: Lake Taihu
+234,KAA3440614.1\par,BioProject: PRJNA554585\par,accession VKKY01000001.1\par,Rufibacter hautae\par,,sediment,,China: Lake Taihu
+235,KAA1399582.1\par,BioProject: PRJNA516098\par,accession SDPQ02000001.1\par,Aeromicrobium ginsengisoli\par,,soil,,South Korea
+236,KAA1380047.1\par,BioProject: PRJNA516096\par,accession SDPP02000001.1\par,Aeromicrobium fastidiosum\par,,herbage,,
+237,TYC16277.1\par,BioProject: PRJNA516480\par,accession VSKN01000003.1\par,Bizionia gelidisalsuginis\par,,Antarctic coastal sea-ice brine,,Antarctica: Vestfold Hills
+238,TYB74482.1\par,BioProject: PRJNA516480\par,accession VSKM01000006.1\par,Bizionia saleffrena\par,,Antarctic coastal sea-ice brine,,Antarctica: Vestfold Hills
+239,TYB69045.1\par,BioProject: PRJNA516480\par,accession VSKM01000028.1\par,Bizionia saleffrena\par,,Antarctic coastal sea-ice brine,,Antarctica: Vestfold Hills
+240,TYB63482.1\par,BioProject: PRJNA560466\par,accession VSEX01000009.1\par,Microbispora tritici\par,,root,,China: Henan
+241,TXK37794.1\par,BioProject: PRJNA559694\par,accession VRTY01000056.1\par,Pontibacter qinzhouensis\par,,mangrove soil,,China
+242,TXF75090.1\par,BioProject: PRJNA559449\par,accession VOXE01000004.1\par,Chryseobacterium sp.\par,,Plant,,South Korea
+243,QED25795.1\par,BioProject: PRJNA557795\par,accession CP042467.1\par,Microvenator marinus\par,,,,China: Weihai
+244,TWX64431.1\par,BioProject: PRJNA516280\par,accession VOLQ01000032.1\par,Colwellia hornerae\par,,sea ice algal assemblage,,Antarctica: Prydz Bay
+245,TWX64045.1\par,BioProject: PRJNA516280\par,accession VOLQ01000035.1\par,Colwellia hornerae\par,,sea ice algal assemblage,,Antarctica: Prydz Bay
+246,TWX62854.1\par,BioProject: PRJNA516280\par,accession VOLR01000001.1\par,Colwellia hornerae\par,,sea ice algal assemblage,,Antarctica: Prydz Bay
+247,TWX59484.1\par,BioProject: PRJNA516280\par,accession VOLP01000001.1\par,Colwellia hornerae\par,,sea ice algal assemblage,,Antarctica: Vestfold Hills
+248,TWX55360.1\par,BioProject: PRJNA516280\par,accession VOLR01000029.1\par,Colwellia hornerae\par,,sea ice algal assemblage,,Antarctica: Prydz Bay
+249,TWX48860.1\par,BioProject: PRJNA516280\par,accession VOLP01000028.1\par,Colwellia hornerae\par,,sea ice algal assemblage,,Antarctica: Vestfold Hills
+250,TWG09863.1\par,BioProject: PRJNA546937\par,accession VIWZ01000002.1\par,Micromonospora taraxaci\par,,,,
+251,TWF92187.1\par,BioProject: PRJNA547288\par,accession VIWW01000002.1\par,Streptomyces brevispora\par,,,,
+252,BBC95428.1\par,BioProject: PRJDB3565\par,accession AP018517.1\par,Streptomyces rochei\par,,,,
+253,TVR79494.1\par,BioProject: PRJNA377096\par,accession REEI01000087.1\par,Saprospirales bacterium\par,PLM2.Bin24,alkaline salt lake,soda lake metagenome,Canada: Cariboo Plateau
+254,TVR35395.1\par,BioProject: PRJNA377096\par,accession REDT01000086.1\par,Balneolaceae bacterium\par,GEM2.Bin42,alkaline salt lake,soda lake metagenome,Canada: Cariboo Plateau
+255,TVQ64134.1\par,BioProject: PRJNA377096\par,accession RECY01000007.1\par,Phycisphaerales bacterium\par,DLM2.Bin69,alkaline salt lake,soda lake metagenome,Canada: Cariboo Plateau
+256,TVQ61516.1\par,BioProject: PRJNA377096\par,accession RECZ01000102.1\par,Phycisphaerales bacterium\par,DLM2.Bin74,alkaline salt lake,soda lake metagenome,Canada: Cariboo Plateau
+257,TVP95175.1\par,BioProject: PRJNA377096\par,accession RECF01000061.1\par,Acholeplasmatales bacterium\par,DLM2.Bin112,alkaline salt lake,soda lake metagenome,Canada: Cariboo Plateau
+258,TVP77736.1\par,BioProject: PRJNA377096\par,accession REBX01000100.1\par,Gemmatimonadales bacterium\par,LCM1.Bin49,alkaline salt lake,soda lake metagenome,Canada: Cariboo Plateau
+259,TVP60122.1\par,BioProject: PRJNA377096\par,accession REBR01000069.1\par,Halomonadaceae bacterium\par,LCM1.Bin30,alkaline salt lake,soda lake metagenome,Canada: Cariboo Plateau
+260,TVP55837.1\par,BioProject: PRJNA377096\par,accession REBS01000120.1\par,Gemmatimonadales bacterium\par,LCM1.Bin31,alkaline salt lake,soda lake metagenome,Canada: Cariboo Plateau
+261,TVP46316.1\par,BioProject: PRJNA377096\par,accession REBP01000102.1\par,Gemmatimonadales bacterium\par,LCM1.Bin21,alkaline salt lake,soda lake metagenome,Canada: Cariboo Plateau
+262,TSJ45739.1\par,BioProject: PRJNA555480\par,accession VLPL01000003.1\par,Fluviicola chungangensis\par,,rice field,,South Korea: Anseong-si
+263,TSD70454.1\par,BioProject: PRJNA539822\par,accession VCCE02000001.1\par,Janthinobacterium sp. KBS0711\par,,soil,,"USA: Hickory Corners, MI"
+264,TSD10810.1\par,BioProject: PRJNA539822\par,accession VCCA02000001.1\par,Curtobacterium sp. KBS0715\par,,soil,,"USA: Hickory Corners, MI"
+265,TRZ74335.1\par,BioProject: PRJNA489439\par,accession QYPB01000108.1\par,Bacteroidota bacterium\par,PowLak16_MAG39,lake water,lake water metagenome,"Canada: Powell Lake South basin, British\par
+                     Columbia"
+266,TRZ70656.1\par,BioProject: PRJNA489439\par,accession QYPB01000212.1\par,Bacteroidota bacterium\par,PowLak16_MAG39,lake water,lake water metagenome,"Canada: Powell Lake South basin, British\par
+                     Columbia"
+267,TRZ48010.1\par,BioProject: PRJNA489439\par,accession QYOT01000282.1\par,bacterium\par,PowLak16_MAG47,lake water,lake water metagenome,"Canada: Powell Lake South basin, British\par
+                     Columbia"
+268,TRX35259.1\par,BioProject: PRJNA553297\par,accession VJZT01000025.1\par,Flavobacterium restrictum\par,,glacier,,China
+269,TRX35258.1\par,BioProject: PRJNA553297\par,accession VJZT01000025.1\par,Flavobacterium restrictum\par,,glacier,,China
+270,TRX31883.1\par,BioProject: PRJNA553297\par,accession VJZS01000024.1\par,Flavobacterium sp. ZT3R18\par,,glacier,,China
+271,TRX29620.1\par,BioProject: PRJNA553297\par,accession VJZQ01000002.1\par,Flavobacterium franklandianum\par,,glacier,,China
+272,TRX16714.1\par,BioProject: PRJNA553297\par,accession VJZR01000011.1\par,Flavobacterium franklandianum\par,,glacier,,China
+273,TQM62842.1\par,BioProject: PRJNA536303\par,accession VFPM01000002.1\par,Humibacillus xanthopallidus\par,,,,USA: California
+274,TQL97170.1\par,BioProject: PRJNA538391\par,accession VFOZ01000001.1\par,Actinoallomurus bryophytorum\par,,,,
+275,TQL90440.1\par,BioProject: PRJNA538391\par,accession VFOZ01000002.1\par,Actinoallomurus bryophytorum\par,,,,
+276,TQL88232.1\par,BioProject: PRJNA538391\par,accession VFOZ01000003.1\par,Actinoallomurus bryophytorum\par,,,,
+277,TQJ54139.1\par,BioProject: PRJNA536297\par,accession VFMT01000001.1\par,Streptomyces sp. SLBN-115\par,,,,USA: California
+278,QDG73948.1\par,BioProject: PRJNA549366\par,accession CP041185.1\par,Janthinobacterium tructae\par,,kidney,,South Korea: Chungbuk province
+279,QCW51154.1\par,BioProject: PRJNA543553\par,accession CP040695.2\par,Nocardioides sp. S-1144\par,S-1144,leaves,,China: Qinghai
+280,TPQ15875.1\par,BioProject: PRJNA543950\par,accession VCHX02000346.1\par,Streptomyces sporangiiformans\par,,soil,,China: Henan
+281,TPG25763.1\par,BioProject: PRJNA496474\par,accession RCZI01000004.1\par,Variovorax guangxiensis\par,,Ice-wedge polygon,,Canada: Axel Heiberg Island
+282,TPG20650.1\par,BioProject: PRJNA496474\par,accession RCZJ01000006.1\par,Variovorax ginsengisoli\par,,Ice-wedge polygon,,Canada: Axel Heiberg Island
+283,TPG05231.1\par,BioProject: PRJNA496474\par,accession RCZL01000006.1\par,Curtobacterium flaccumfaciens\par,,Ice-wedge polygon,,Canada: Axel Heiberg Island
+284,TPE45464.1\par,BioProject: PRJNA549131\par,accession VFRQ01000002.1\par,Pontibacter mangrovi\par,,mangrove sediment,,China: Wenchang
+285,TPE40296.1\par,BioProject: PRJNA549131\par,accession VFRQ01000018.1\par,Pontibacter mangrovi\par,,mangrove sediment,,China: Wenchang
+286,TMQ70531.1\par,BioProject: PRJNA449266\par,accession VBPB01000219.1\par,Candidatus Eisenbacteria bacterium\par,WS_11,temperate grassland biome,soil metagenome,"USA: Angelo Coast Range Reserve, CA"
+287,TML19484.1\par,BioProject: PRJNA449266\par,accession VAYB01000028.1\par,Actinomycetota bacterium\par,AC_47,temperate grassland biome,soil metagenome,"USA: Angelo Coast Range Reserve, CA"
+288,TML12681.1\par,BioProject: PRJNA449266\par,accession VAYB01000236.1\par,Actinomycetota bacterium\par,AC_47,temperate grassland biome,soil metagenome,"USA: Angelo Coast Range Reserve, CA"
+289,TMK04161.1\par,BioProject: PRJNA449266\par,accession VAZK01000091.1\par,Alphaproteobacteria bacterium\par,AP_6,temperate grassland biome,soil metagenome,"USA: Angelo Coast Range Reserve, CA"
+290,TMI44681.1\par,BioProject: PRJNA449266\par,accession VBBZ01000074.1\par,Betaproteobacteria bacterium\par,BP_4,temperate grassland biome,soil metagenome,"USA: Angelo Coast Range Reserve, CA"
+291,TMI05126.1\par,BioProject: PRJNA449266\par,accession VBBY01000181.1\par,Betaproteobacteria bacterium\par,BP_3,temperate grassland biome,soil metagenome,"USA: Angelo Coast Range Reserve, CA"
+292,TMH98148.1\par,BioProject: PRJNA449266\par,accession VBBX01000281.1\par,Betaproteobacteria bacterium\par,BP_2,temperate grassland biome,soil metagenome,"USA: Angelo Coast Range Reserve, CA"
+293,TMH91106.1\par,BioProject: PRJNA449266\par,accession VBCA01000028.1\par,Betaproteobacteria bacterium\par,BP_5,temperate grassland biome,soil metagenome,"USA: Angelo Coast Range Reserve, CA"
+294,TMH84401.1\par,BioProject: PRJNA449266\par,accession VBCD01000191.1\par,Betaproteobacteria bacterium\par,BP_8,temperate grassland biome,soil metagenome,"USA: Angelo Coast Range Reserve, CA"
+295,TMD86281.1\par,BioProject: PRJNA449266\par,accession VBHB01000232.1\par,Chloroflexota bacterium\par,CF_93,temperate grassland biome,soil metagenome,"USA: Angelo Coast Range Reserve, CA"
+296,TMC52393.1\par,BioProject: PRJNA449266\par,accession VBIW01000043.1\par,Chloroflexota bacterium\par,CF_140,temperate grassland biome,soil metagenome,"USA: Angelo Coast Range Reserve, CA"
+297,TMB35982.1\par,BioProject: PRJNA449266\par,accession VBKL01000031.1\par,Deltaproteobacteria bacterium\par,DP_8,temperate grassland biome,soil metagenome,"USA: Angelo Coast Range Reserve, CA"
+298,TMA30126.1\par,BioProject: PRJNA449266\par,accession VBLC01000008.1\par,Deltaproteobacteria bacterium\par,DP_25,temperate grassland biome,soil metagenome,"USA: Angelo Coast Range Reserve, CA"
+299,TMA30122.1\par,BioProject: PRJNA449266\par,accession VBLC01000008.1\par,Deltaproteobacteria bacterium\par,DP_25,temperate grassland biome,soil metagenome,"USA: Angelo Coast Range Reserve, CA"
+300,TMA26268.1\par,BioProject: PRJNA449266\par,accession VBLM01000319.1\par,Deltaproteobacteria bacterium\par,DP_35,temperate grassland biome,soil metagenome,"USA: Angelo Coast Range Reserve, CA"
+301,TLS40514.1\par,BioProject: PRJNA542769\par,accession VBZC01000076.1\par,Streptomyces montanus\par,,soil,,China
+302,TLP59768.1\par,BioProject: PRJNA541378\par,accession VANP01000005.1\par,Microbispora fusca\par,,ear,,China: Zhumadian
+303,TKV67929.1\par,BioProject: PRJNA541187\par,accession SZYH01000001.1\par,Marinobacter panjinensis\par,,tidal flat of the red beach,,"China: Panjin, Liaoning"
+304,TKK73359.1\par,BioProject: PRJNA540104\par,accession SZPZ01000007.1\par,Kribbella jiaozuonensis\par,,soil,,China: Jiaozuo
+305,TIH05385.1\par,BioProject: PRJNA453403\par,accession QFKS01000001.1\par,Legionella pneumophila\par,,sputum,,USA: Michigan
+306,TIG73855.1\par,BioProject: PRJNA453403\par,accession QFKM01000022.1\par,Legionella pneumophila\par,,sputum,,USA: Michigan
+307,THG33185.1\par,BioProject: PRJNA531797\par,accession SSSM01000001.1\par,Naasia lichenicola\par,,,,Germany
+308,THD63884.1\par,BioProject: PRJNA521345\par,accession SSMX01000008.1\par,Phenylobacterium sp.\par,LY.12,tundra soil,soil metagenome,USA: Alaska
+309,TGY34310.1\par,BioProject: PRJNA474907\par,accession SRYO01000010.1\par,Microbacterium laevaniformans\par,,gut,,Canada: Toronto
+310,TGD63645.1\par,BioProject: PRJNA503327\par,accession SJDN01000007.1\par,Tabrizicola sp. WMC-M-20\par,,sediment of alpine lake,,China: Tibet Autonomous Region
+311,TGD42660.1\par,BioProject: PRJNA503327\par,accession RPEM01000008.1\par,Pseudotabrizicola sediminis\par,,sediment of alpine lake,,China: Tibet Autonomous Region
+312,TFV99185.1\par,BioProject: PRJNA529297\par,accession SPQZ01000002.1\par,Leifsonia flava\par,,"rhizosphere soil of Aquilegia\par
+                     viridiflora",,China: Xinjiang Uygur autonomous region
+313,TFV83368.1\par,BioProject: PRJNA480027\par,accession SPQK01000025.1\par,Blastococcus sp. CT_GayMR16\par,,Granite Building Material,,"USA: Hebron, CT, Stone Colonial Mill"
+314,TFV78464.1\par,BioProject: PRJNA480027\par,accession SPQL01000002.1\par,Blastococcus sp. CT_GayMR19\par,,Granite Building Material,,"USA: Hebron, CT, Stone Colonial Mill"
+315,TFG83488.1\par,BioProject: PRJNA511814\par,accession SPCK01000110.1\par,Spirochaetales bacterium\par,das_tool.maxbin2.98,"Bothnian Sea sediment, site NB8",marine sediment metagenome,Sweden: Bothnian Sea
+316,TFD90737.1\par,BioProject: PRJNA527682\par,accession SOHN01000005.1\par,Cryobacterium serini\par,,glacier,,China
+317,TFD72638.1\par,BioProject: PRJNA527682\par,accession SOHL01000008.1\par,Cryobacterium gelidum\par,,glacier,,China
+318,TFD68731.1\par,BioProject: PRJNA527682\par,accession SOHK01000005.1\par,Cryobacterium ruanii\par,,glacier,,China
+319,TFD64567.1\par,BioProject: PRJNA527682\par,accession SOHI01000037.1\par,Cryobacterium sp. Hb1\par,,glacier,,China
+320,TFD62604.1\par,BioProject: PRJNA527682\par,accession SOHJ01000002.1\par,Cryobacterium suzukii\par,,glacier,,China
+321,TFD61718.1\par,BioProject: PRJNA527682\par,accession SOHJ01000004.1\par,Cryobacterium suzukii\par,,glacier,,China
+322,TFD57210.1\par,BioProject: PRJNA527682\par,accession SOHJ01000014.1\par,Cryobacterium suzukii\par,,glacier,,China
+323,TFD49114.1\par,BioProject: PRJNA527682\par,accession SOHE01000052.1\par,Cryobacterium frigoriphilum\par,,glacier,,China
+324,TFD37347.1\par,BioProject: PRJNA527682\par,accession SOGW01000101.1\par,Cryobacterium sp. TMT2-10\par,,glacier,,China
+325,TFD28124.1\par,BioProject: PRJNA527682\par,accession SOGT01000004.1\par,Cryobacterium lyxosi\par,,glacier,,China
+326,TFD19447.1\par,BioProject: PRJNA527682\par,accession SOGV01000073.1\par,Cryobacterium sp. TMT2-23\par,,glacier,,China
+327,TFD15589.1\par,BioProject: PRJNA527682\par,accession SOGR01000035.1\par,Cryobacterium sp. TMT1-21\par,,glacier,,China
+328,TFD12195.1\par,BioProject: PRJNA527682\par,accession SOGS01000010.1\par,Cryobacterium sp. TMT1-2-2\par,,glacier,,China
+329,TFD11401.1\par,BioProject: PRJNA527682\par,accession SOGU01000104.1\par,Cryobacterium sp. TMT4-10\par,,glacier,,China
+330,TFC82051.1\par,BioProject: PRJNA527682\par,accession SOGM01000091.1\par,Cryobacterium sp. TmT2-59\par,,glacier,,China
+331,TFC02425.1\par,BioProject: PRJNA527682\par,accession SOFL01000028.1\par,Cryobacterium adonitolivorans\par,,glacier,,China
+332,TFB90123.1\par,BioProject: PRJNA527682\par,accession SOFG01000004.1\par,Cryobacterium algoricola\par,,glacier,,China
+333,TFB88879.1\par,BioProject: PRJNA527682\par,accession SOFG01000008.1\par,Cryobacterium algoricola\par,,glacier,,China
+334,TFB82253.1\par,BioProject: PRJNA527682\par,accession SOFD01000002.1\par,Cryobacterium flavum\par,,glacier,,China
+335,TFB81624.1\par,BioProject: PRJNA527682\par,accession SOFD01000005.1\par,Cryobacterium flavum\par,,glacier,,China
+336,TDW83604.1\par,BioProject: PRJNA520288\par,accession SODT01000014.1\par,Kribbella sp. VKM Ac-2566\par,,,,
+337,TDW81571.1\par,BioProject: PRJNA519250\par,accession SODU01000005.1\par,Kribbella pratensis\par,,,,
+338,TDW77090.1\par,BioProject: PRJNA520295\par,accession SODP01000001.1\par,Kribbella pratensis\par,,,,
+339,TDW31083.1\par,BioProject: PRJNA500543\par,accession SODI01000001.1\par,Cryobacterium psychrophilum\par,,,,Antarctica
+340,TDU80594.1\par,BioProject: PRJNA501172\par,accession SOCC01000001.1\par,Streptomyces sp. KS 21\par,,,,
+341,TDT98647.1\par,BioProject: PRJNA501180\par,accession SOBN01000002.1\par,Streptomyces sp. 846.5\par,,,,
+342,TDQ10853.1\par,BioProject: PRJNA501339\par,accession SNYD01000005.1\par,Rathayibacter sp. PhB1\par,,,,
+343,TDQ00472.1\par,BioProject: PRJNA519298\par,accession SNXZ01000002.1\par,Labedaea rhizosphaerae\par,,,,
+344,TDO54146.1\par,BioProject: PRJNA520293\par,accession SNWS01000016.1\par,Kribbella sp. VKM Ac-2571\par,,,,
+345,TDC25793.1\par,BioProject: PRJNA524765\par,accession SMKA01000118.1\par,Kribbella albertanoniae\par,,"Biofilm from Saint Callistus Roman\par
+                     catacombs",,Italy: Rome
+346,TCC02839.1\par,BioProject: PRJNA524457\par,accession SJJZ01000005.1\par,Kribbella soli\par,,Soil,,Russia: Moscow
+347,TAN31294.1\par,BioProject: PRJNA514088\par,accession SCQM01000004.1\par,Actinomycetota bacterium\par,FW021_bin.20,groundwater,groundwater metagenome,USA: Tennessee
+348,TAN26253.1\par,BioProject: PRJNA514088\par,accession SCQO01000027.1\par,Rhodanobacter sp.\par,FW021_bin.24,groundwater,groundwater metagenome,USA: Tennessee
+349,TAN26252.1\par,BioProject: PRJNA514088\par,accession SCQO01000027.1\par,Rhodanobacter sp.\par,FW021_bin.24,groundwater,groundwater metagenome,USA: Tennessee
+350,TAM42596.1\par,BioProject: PRJNA514088\par,accession SCRO01000023.1\par,Rhodanobacter sp.\par,FW106_bin.6,groundwater,groundwater metagenome,USA: Tennessee
+351,TAM42595.1\par,BioProject: PRJNA514088\par,accession SCRO01000023.1\par,Rhodanobacter sp.\par,FW106_bin.6,groundwater,groundwater metagenome,USA: Tennessee
+352,TAM33168.1\par,BioProject: PRJNA514088\par,accession SCRQ01000043.1\par,Nevskiaceae bacterium\par,FW106_bin.9,groundwater,groundwater metagenome,USA: Tennessee
+353,TAL91757.1\par,BioProject: PRJNA514088\par,accession SCRZ01000169.1\par,Rhodanobacter sp.\par,FW106-02_bin.9,groundwater,groundwater metagenome,USA: Tennessee
+354,TAL91756.1\par,BioProject: PRJNA514088\par,accession SCRZ01000169.1\par,Rhodanobacter sp.\par,FW106-02_bin.9,groundwater,groundwater metagenome,USA: Tennessee
+355,TAL88298.1\par,BioProject: PRJNA514088\par,accession SCSB01000679.1\par,Rhodanobacter sp.\par,FW106-10_bin.17,groundwater,groundwater metagenome,USA: Tennessee
+356,TAL14121.1\par,BioProject: PRJNA514088\par,accession SCSZ01000031.1\par,Patescibacteria group bacterium\par,FW300_bin.23,groundwater,groundwater metagenome,USA: Tennessee
+357,TAL05171.1\par,BioProject: PRJNA514088\par,accession SCTL01000187.1\par,Verrucomicrobiota bacterium\par,FW301_bin.11,groundwater,groundwater metagenome,USA: Tennessee
+358,TAK83894.1\par,BioProject: PRJNA514088\par,accession SCTY01000042.1\par,Betaproteobacteria bacterium\par,FW602_bin.15,groundwater,groundwater metagenome,USA: Tennessee
+359,TAK25893.1\par,BioProject: PRJNA514088\par,accession SCUS01000109.1\par,Myxococcaceae bacterium\par,GW715_bin.15,groundwater,groundwater metagenome,USA: Tennessee
+360,TAK14691.1\par,BioProject: PRJNA514088\par,accession SCUK01000005.1\par,Anaerolineae bacterium\par,FW602_bin.38,groundwater,groundwater metagenome,USA: Tennessee
+361,TAK04808.1\par,BioProject: PRJNA514088\par,accession SCUL01000002.1\par,Patescibacteria group bacterium\par,FW602_bin.41,groundwater,groundwater metagenome,USA: Tennessee
+362,TAJ49746.1\par,BioProject: PRJNA514088\par,accession SCVE01000006.1\par,Herbiconiux sp.\par,GW715_bin.41,groundwater,groundwater metagenome,USA: Tennessee
+363,TAJ46650.1\par,BioProject: PRJNA514088\par,accession SCVE01000018.1\par,Herbiconiux sp.\par,GW715_bin.41,groundwater,groundwater metagenome,USA: Tennessee
+364,TAJ17630.1\par,BioProject: PRJNA514088\par,accession SCVU01000392.1\par,Planctomycetota bacterium\par,GW928_bin.9,groundwater,groundwater metagenome,USA: Tennessee
+365,RZU30891.1\par,BioProject: PRJNA347149\par,accession SHKV01000001.1\par,Blastococcus saxobsidens\par,,,,
+366,RYX77128.1\par,BioProject: PRJNA493786\par,accession RBGF01000020.1\par,Legionella pneumophila\par,,clinical sample,,Switzerland: Basel
+367,RYX49644.1\par,BioProject: PRJNA493786\par,accession RBGC01000024.1\par,Legionella pneumophila\par,,clinical sample,,Switzerland: Basel
+368,RYX47387.1\par,BioProject: PRJNA493786\par,accession RBGD01000022.1\par,Legionella pneumophila\par,,clinical sample,,Switzerland: Basel
+369,RYX41259.1\par,BioProject: PRJNA493786\par,accession RBGB01000025.1\par,Legionella pneumophila\par,,clinical sample,,Switzerland: Basel
+370,RYX29562.1\par,BioProject: PRJNA493786\par,accession RBGE01000021.1\par,Legionella pneumophila\par,,clinical sample,,Switzerland: Basel
+371,RYX25859.1\par,BioProject: PRJNA493786\par,accession RBFV01000030.1\par,Legionella pneumophila\par,,clinical sample,,Switzerland: Basel
+372,RYX21817.1\par,BioProject: PRJNA493786\par,accession RBFU01000018.1\par,Legionella pneumophila\par,,clinical sample,,Switzerland: Basel
+373,RXZ87004.1\par,BioProject: PRJNA516088\par,accession SDPM01000003.1\par,Agromyces atrinae\par,,fermented seafood,,South Korea
+374,QAU35494.1\par,BioProject: PRJNA510480\par,accession CP035311.1\par,Janthinobacterium sp. 17J80-10\par,,soil,,South Korea: Seoul
+375,RWZ59290.1\par,BioProject: PRJNA511605\par,accession RZNC01000005.1\par,Labedella populi\par,,plant,,China: Xinjiang Uyghur Autonomous Region
+376,RWZ51137.1\par,BioProject: PRJNA511602\par,accession RZNB01000003.1\par,Labedella phragmitis\par,,plant,,China: Xinjiang Uyghur Autonomous Region
+377,RWY47852.1\par,BioProject: PRJNA514225\par,accession SBIW01000012.1\par,Mucilaginibacter gilvus\par,,soil,,Antarctica
+378,RTQ49651.1\par,BioProject: PRJNA509531\par,accession RXOF01000006.1\par,Hymenobacter gummosus\par,,spring,,Taiwan: Kaohsiung city
+379,RUQ99108.1\par,BioProject: PRJNA511610\par,accession RZGZ01000003.1\par,Labedella endophytica\par,,stem of healthy halophyte,,China: Xinjiang province
+380,VEI49668.1\par,BioProject: PRJEB6403\par,embl accession LR134487.1\par,Kocuria rosea\par,,not available: to be reported later,,
+381,VEB31276.1\par,BioProject: PRJEB6403\par,embl accession LR134176.1\par,Legionella pneumophila\par,,not available: to be reported later,,
+382,RST47791.1\par,BioProject: PRJNA509039\par,accession RWKI01000043.1\par,Variovorax sp. MHTC-1\par,,rhizosphere of Ephedra,,China: Xinjiang Province
+383,RRQ46331.1\par,BioProject: PRJNA480579\par,accession QOVY01000006.1\par,Chryseobacterium sp. SC28\par,,freshwater,,South Korea
+384,RRO24407.1\par,BioProject: PRJNA507347\par,accession RRZV01000017.1\par,Flavobacteriaceae bacterium 14752\par,,lake water,,China: Xin Jiang
+385,RNI23542.1\par,BioProject: PRJNA503954\par,accession RJJD01000015.1\par,Rufibacter latericius\par,,water,,China: Hebei Province
+386,RNI23479.1\par,BioProject: PRJNA503954\par,accession RJJD01000015.1\par,Rufibacter latericius\par,,water,,China: Hebei Province
+387,RRJ92088.1\par,BioProject: PRJNA505774\par,accession RQVR01000006.1\par,Flavobacterium macacae\par,,feces,,China
+388,RRJ92087.1\par,BioProject: PRJNA505774\par,accession RQVR01000006.1\par,Flavobacterium macacae\par,,feces,,China
+389,AZI67382.1\par,BioProject: PRJNA498690\par,accession CP034158.1\par,Kaistella daneshvariae\par,,,,USA:NEW YORK
+390,AZH83365.1\par,BioProject: PRJNA497351\par,accession CP033107.1\par,Plantibacter sp. PA-3-X8\par,,sediments,,Antarctica: Prydz Bay
+391,RPJ80304.1\par,BioProject: PRJNA330672\par,accession RPOL01000408.1\par,Deltaproteobacteria bacterium\par,bin.182,"Prairie Pothole Region wetland\par
+                     sediments",sediment metagenome,"USA: North Dakota, Cottonwood Lake Study Area"
+392,RPJ75288.1\par,BioProject: PRJNA330672\par,accession RPOV01000564.1\par,Alphaproteobacteria bacterium\par,maxbin2.0024,"Prairie Pothole Region wetland\par
+                     sediments",sediment metagenome,"USA: North Dakota, Cottonwood Lake Study Area"
+393,RPI83807.1\par,BioProject: PRJNA330672\par,accession RPPQ01000314.1\par,Chloroflexota bacterium\par,maxbin2.1011,"Prairie Pothole Region wetland\par
+                     sediments",sediment metagenome,"USA: North Dakota, Cottonwood Lake Study Area"
+394,RPI77412.1\par,BioProject: PRJNA330672\par,accession RPPU01000161.1\par,Desulfobacteraceae bacterium\par,maxbin2.1429,"Prairie Pothole Region wetland\par
+                     sediments",sediment metagenome,"USA: North Dakota, Cottonwood Lake Study Area"
+395,RPI76909.1\par,BioProject: PRJNA330672\par,accession RPPU01000214.1\par,Desulfobacteraceae bacterium\par,maxbin2.1429,"Prairie Pothole Region wetland\par
+                     sediments",sediment metagenome,"USA: North Dakota, Cottonwood Lake Study Area"
+396,RPI04388.1\par,BioProject: PRJNA330672\par,accession RPQN01000118.1\par,Ignavibacteriota bacterium\par,metabat2.334,"Prairie Pothole Region wetland\par
+                     sediments",sediment metagenome,"USA: North Dakota, Cottonwood Lake Study Area"
+397,RPI04387.1\par,BioProject: PRJNA330672\par,accession RPQN01000118.1\par,Ignavibacteriota bacterium\par,metabat2.334,"Prairie Pothole Region wetland\par
+                     sediments",sediment metagenome,"USA: North Dakota, Cottonwood Lake Study Area"
+398,RPI01937.1\par,BioProject: PRJNA330672\par,accession RPQV01000092.1\par,Calditrichota bacterium\par,metabat2.451,"Prairie Pothole Region wetland\par
+                     sediments",sediment metagenome,"USA: North Dakota, Cottonwood Lake Study Area"
+399,RPH30068.1\par,BioProject: PRJNA330672\par,accession RPRQ01000075.1\par,Bacteroidales bacterium\par,metabat2.99,"Prairie Pothole Region wetland\par
+                     sediments",sediment metagenome,"USA: North Dakota, Cottonwood Lake Study Area"
+400,RPH30066.1\par,BioProject: PRJNA330672\par,accession RPRQ01000075.1\par,Bacteroidales bacterium\par,metabat2.99,"Prairie Pothole Region wetland\par
+                     sediments",sediment metagenome,"USA: North Dakota, Cottonwood Lake Study Area"
+401,RPH30062.1\par,BioProject: PRJNA330672\par,accession RPRQ01000075.1\par,Bacteroidales bacterium\par,metabat2.99,"Prairie Pothole Region wetland\par
+                     sediments",sediment metagenome,"USA: North Dakota, Cottonwood Lake Study Area"
+402,RPH29208.1\par,BioProject: PRJNA330672\par,accession RPRQ01000093.1\par,Bacteroidales bacterium\par,metabat2.99,"Prairie Pothole Region wetland\par
+                     sediments",sediment metagenome,"USA: North Dakota, Cottonwood Lake Study Area"
+403,RPE39918.1\par,BioProject: PRJNA501171\par,accession RKQF01000001.1\par,Streptomyces sp. Ag109_O5-1\par,,,,
+404,ROS54969.1\par,BioProject: PRJNA501366\par,accession RKIB01000001.1\par,Rathayibacter sp. PhB185\par,,,,
+405,ROS23445.1\par,BioProject: PRJNA501344\par,accession RKHW01000003.1\par,Rathayibacter sp. PhB127\par,,,,
+406,ROQ94300.1\par,BioProject: PRJNA501185\par,accession RJUZ01000001.1\par,Streptomyces sp. 2132.2\par,,,,
+407,ROQ93714.1\par,BioProject: PRJNA501185\par,accession RJUZ01000001.1\par,Streptomyces sp. 2132.2\par,,,,
+408,ROQ71504.1\par,BioProject: PRJNA501176\par,accession RJUV01000004.1\par,Streptomyces sp. CEV 2-1\par,,,,
+409,ROQ64873.1\par,BioProject: PRJNA501358\par,accession RJUT01000001.1\par,Rathayibacter sp. PhB152\par,,,,
+410,ROP56584.1\par,BioProject: PRJNA501367\par,accession RJKO01000001.1\par,Rathayibacter sp. PhB186\par,,,,
+411,ROI08301.1\par,BioProject: PRJNA498690\par,accession RJUG01000004.1\par,Kaistella daneshvariae\par,,,,USA:New Mexico
+412,RNI32557.1\par,BioProject: PRJNA503948\par,accession RJJE01000002.1\par,Rufibacter immobilis\par,,saline lake,,India: Pangong Lake
+413,RNI32468.1\par,BioProject: PRJNA503948\par,accession RJJE01000002.1\par,Rufibacter immobilis\par,,saline lake,,India: Pangong Lake
+414,RNE58557.1\par,BioProject: PRJNA503311\par,accession RDSR01000022.1\par,Cryobacterium tepidiphilum\par,,soil,,China: Harbin
+415,RMA77682.1\par,BioProject: PRJNA331689\par,accession REFH01000007.1\par,Flavobacterium weaverense\par,,,,
+416,RLT36326.1\par,BioProject: PRJNA449258\par,accession QWRB01000366.1\par,Chloroflexota bacterium\par,ZH-chloro-G1,"freshwater lake, 40-80 m depth",freshwater metagenome,Switzerland: Lake Zurich
+417,RLQ84020.1\par,BioProject: PRJNA495923\par,accession RCWJ01000002.1\par,Mycetocola zhadangensis\par,,snow,,China: Qinghai Province
+418,RKS99764.1\par,BioProject: PRJNA442008\par,accession RBXD01000001.1\par,Flavobacterium sp. 123\par,,,,USA: Lake Washington
+419,RKR97643.1\par,BioProject: PRJNA460971\par,accession RBKV01000001.1\par,Williamsia muralis\par,,,,
+420,RKR91414.1\par,BioProject: PRJNA332823\par,accession RBKT01000001.1\par,Micromonospora pisi\par,,,,
+421,RKR91154.1\par,BioProject: PRJNA332823\par,accession RBKT01000001.1\par,Micromonospora pisi\par,,,,
+422,RKR86587.1\par,BioProject: PRJNA332823\par,accession RBKT01000001.1\par,Micromonospora pisi\par,,,,
+423,RKR30144.1\par,BioProject: PRJNA442650\par,accession RBIR01000001.1\par,Arthrobacter oryzae\par,,,,
+424,RKI16713.1\par,BioProject: PRJNA490141\par,accession RAWI01000007.1\par,Corallococcus praedator\par,,soil,,United Kingdom
+425,RKH34884.1\par,BioProject: PRJNA490141\par,accession RAWH01000019.1\par,Corallococcus sp. CA031C\par,,soil,,United Kingdom
+426,RKG79060.1\par,BioProject: PRJNA490141\par,accession RAVZ01000252.1\par,Corallococcus terminator\par,,soil,,United Kingdom
+427,RKE20049.1\par,BioProject: PRJNA363957\par,accession RAPS01000001.1\par,Streptomyces sp. TLI_171\par,,,,
+428,RJQ58908.1\par,BioProject: PRJNA355136\par,accession QZKX01000082.1\par,Stygiobacter sp.\par,SURF_2,"deeply circulating subsurface aquifer\par
+                     fluids",subsurface metagenome,"USA: South Dakota, Sanford Underground Research\par
+                     Facility"
+429,RJP56542.1\par,BioProject: PRJNA355136\par,accession QZJX01000113.1\par,Ignavibacteriales bacterium\par,SURF_28,"deeply circulating subsurface aquifer\par
+                     fluids",subsurface metagenome,"USA: South Dakota, Sanford Underground Research\par
+                     Facility"
+430,RJO66050.1\par,BioProject: PRJNA355136\par,accession QZKR01000121.1\par,Myxococcales bacterium\par,SURF_8,"deeply circulating subsurface aquifer\par
+                     fluids",subsurface metagenome,"USA: South Dakota, Sanford Underground Research\par
+                     Facility"
+431,RJO62972.1\par,BioProject: PRJNA355136\par,accession QZJY01000007.1\par,Dehalococcoidia bacterium\par,SURF_27,"deeply circulating subsurface aquifer\par
+                     fluids",subsurface metagenome,"USA: South Dakota, Sanford Underground Research\par
+                     Facility"
+432,RIZ70616.1\par,BioProject: PRJNA324769\par,accession QVQF01000127.1\par,Methylococcales bacterium\par,AMbin149,lake water,freshwater metagenome,"Finland: Hameenlinna (Evo), Lake\par
+                     Alinen-Mustajarvi"
+433,RIJ37542.1\par,BioProject: PRJNA487174\par,accession QWGE01000003.1\par,Pontibacter oryzae\par,,Rice field,,South Korea: Ilsan
+434,RIE09624.1\par,BioProject: PRJNA482249\par,accession QXIU01000167.1\par,Candidatus Cryosericum odellii\par,,soil,,Sweden: Stordalen mire
+435,RIE09512.1\par,BioProject: PRJNA482249\par,accession QXIU01000169.1\par,Candidatus Cryosericum odellii\par,,soil,,Sweden: Stordalen mire
+436,RIE07487.1\par,BioProject: PRJNA482249\par,accession QXIT01000105.1\par,Candidatus Cryosericum odellii\par,,soil,,Sweden: Stordalen mire
+437,RIE06630.1\par,BioProject: PRJNA482249\par,accession QXIS01000006.1\par,Candidatus Cryosericum terrychapinii\par,,soil,,Sweden: Stordalen mire
+438,RHW23233.1\par,BioProject: PRJNA486773\par,accession QXGH01000053.1\par,Nocardioides immobilis\par,,iron mine soil,,China
+439,RGA00211.1\par,BioProject: PRJNA471116\par,accession QFZU02000285.1\par,Microbispora triticiradicis\par,,root,,China: Zhumadian
+440,RFP69537.1\par,BioProject: PRJNA485604\par,accession QVMV01000012.1\par,Wenzhouxiangella sp. 15190\par,,lake water,,China: Xinjiang
+441,RFP67195.1\par,BioProject: PRJNA485604\par,accession QVMV01000053.1\par,Wenzhouxiangella sp. 15190\par,,lake water,,China: Xinjiang
+442,RFF27928.1\par,BioProject: PRJNA485603\par,accession QUZL01000023.1\par,Wenzhouxiangella sp. 15181\par,,lake water,,China: Xinjiang
+443,RFF27027.1\par,BioProject: PRJNA485603\par,accession QUZL01000039.1\par,Wenzhouxiangella sp. 15181\par,,lake water,,China: Xinjiang
+444,REH22726.1\par,BioProject: PRJNA363959\par,accession QUNN01000001.1\par,Streptomyces sp. 2221.1\par,,,,
+445,REE75399.1\par,BioProject: PRJNA442708\par,accession QTTP01000001.1\par,Rhodococcus wratislaviensis\par,,,,
+446,RDL09767.1\par,BioProject: PRJNA455040\par,accession QRAT01000001.1\par,Streptomyces sp. HB202\par,,,,
+447,STQ95279.1\par,BioProject: PRJEB6403\par,embl accession UGJH01000001.1\par,Janthinobacterium lividum\par,,,,
+448,STX50843.1\par,BioProject: PRJEB6403\par,embl accession UGOD01000001.1\par,Legionella busanensis\par,,,,
+449,STX84073.1\par,BioProject: PRJEB6403\par,embl accession UGOM01000001.1\par,Legionella pneumophila\par,,,,
+450,RCG31213.1\par,BioProject: PRJNA478281\par,accession QOIL01000005.1\par,Sphaerisporangium album\par,,soil,,"China: Tianzi Mountain, Hunan"
+451,RCG30941.1\par,BioProject: PRJNA478281\par,accession QOIL01000006.1\par,Sphaerisporangium album\par,,soil,,"China: Tianzi Mountain, Hunan"
+452,RBP09128.1\par,BioProject: PRJNA463377\par,accession QNRK01000023.1\par,Roseiarcus fermentans\par,,,,
+453,RAR47058.1\par,BioProject: PRJNA370093\par,accession QLSV01000012.1\par,Flavobacterium lacus\par,,,,
+454,RAJ66540.1\par,BioProject: PRJNA195845\par,accession QLLX01000005.1\par,Streptomyces sp. Amel2xB2\par,,,,
+455,PZX41935.1\par,BioProject: PRJNA262348\par,accession QKZQ01000010.1\par,Roseinatronobacter thiooxidans\par,,,,Russia
+456,PZV96480.1\par,BioProject: PRJNA402486\par,accession QKUA01000007.1\par,Micromonospora phaseoli\par,,,,
+457,PZA19944.1\par,BioProject: PRJNA474067\par,accession QKNV01000245.1\par,Modestobacter versicolor\par,,Biological soil crusts,,USA
+458,PYE12309.1\par,BioProject: PRJNA463394\par,accession QJSP01000023.1\par,Williamsia limnetica\par,,,,
+459,PVY27788.1\par,BioProject: PRJNA439999\par,accession QEOM01000010.1\par,Williamsia marianensis\par,,,,United Kingdom
+460,PUB24872.1\par,BioProject: PRJNA443380\par,accession QBUG01000008.1\par,Promicromonospora sp. AC04\par,,,,
+461,PUB23571.1\par,BioProject: PRJNA443380\par,accession QBUG01000011.1\par,Promicromonospora sp. AC04\par,,,,
+462,PTM87856.1\par,BioProject: PRJNA443690\par,accession PZZY01000004.1\par,Dietzia psychralcaliphila\par,,,,
+463,PSL36489.1\par,BioProject: PRJNA402471\par,accession PYAU01000001.1\par,Labedella gwakjiensis\par,,,,
+464,PRY45127.1\par,BioProject: PRJNA402465\par,accession PVTF01000002.1\par,Umezawaea tangerina\par,,,,Japan
+465,PQV64994.1\par,BioProject: PRJNA374800\par,accession NIGF01000003.1\par,Abditibacterium utsteinense\par,,top surface soil,,Antarctica:Utsteinen
+466,PQM71026.1\par,BioProject: PRJNA432231\par,accession PQXA01000038.1\par,Legionella pneumophila\par,,,,Canada: Toronto
+467,PPH05347.1\par,BioProject: PRJNA432233\par,accession PSVD01000003.1\par,Rathayibacter sp. AY1F6\par,,,,"USA: Linn County, Oregon"
+468,PKW09046.1\par,BioProject: PRJNA363951\par,accession PJNA01000001.1\par,Streptomyces sp. 5112.2\par,,,,
+469,PJJ62057.1\par,BioProject: PRJNA402476\par,accession PGFB01000003.1\par,Compostimonas suwonensis\par,,,,
+470,PJJ02955.1\par,BioProject: PRJNA363955\par,accession PGEO01000001.1\par,Streptomyces sp. 2333.5\par,,,,
+471,PJE11475.1\par,BioProject: PRJNA323575\par,accession PEQQ01000066.1\par,Legionella sp.\par,DS3.009,drinking water system-DS3,freshwater metagenome,"USA: Illinois, Champaign"
+472,SNX55649.1\par,BioProject: PRJEB22292\par,embl accession OAOJ01000001.1\par,Streptomyces sp. TLI_55\par,,,,
+473,PFG16673.1\par,BioProject: PRJNA303788\par,accession PDJC01000001.1\par,Propionicimonas paludicola\par,,,,
+474,PFG16208.1\par,BioProject: PRJNA303788\par,accession PDJC01000001.1\par,Propionicimonas paludicola\par,,,,
+475,PBC85990.1\par,BioProject: PRJNA363952\par,accession NSGX01000001.1\par,Streptomyces sp. 2321.6\par,,,,
+476,PBC83256.1\par,BioProject: PRJNA363952\par,accession NSGX01000001.1\par,Streptomyces sp. 2321.6\par,,,,
+477,PBC70059.1\par,BioProject: PRJNA363956\par,accession NSGV01000003.1\par,Streptomyces sp. TLI_235\par,,,,
+478,SCK26802.1\par,BioProject: PRJEB14429\par,embl accession FMHK01000013.1\par,Streptomyces sp. LamerLS-316\par,,,,
+479,OZC41878.1\par,BioProject: PRJNA395383\par,accession NOWH01000005.1\par,Rhodococcus fascians\par,,,,USA: CA
+480,SFZ45509.1\par,BioProject: PRJEB17630\par,embl accession LT632615.1\par,Legionella pneumophila\par,ST23,Clinical,,
+481,SFZ45556.1\par,BioProject: PRJEB17630\par,embl accession LT632614.1\par,Legionella pneumophila\par,ST62,Clinical,,
+482,SCF46809.1\par,BioProject: PRJEB14520\par,embl accession FMCU01000020.1\par,Micromonospora matsumotoense\par,,,,
+483,SBU88265.1\par,BioProject: PRJEB14425\par,embl accession FLTP01000001.1\par,Streptomyces sp. OspMP-M45\par,,,,
+484,CZR22062.1\par,BioProject: PRJEB1828\par,embl accession FJOC01000009.1\par,Legionella pneumophila\par,,clinical,,
+485,CZR21002.1\par,BioProject: PRJEB1828\par,embl accession FJOA01000004.1\par,Legionella pneumophila\par,Pontiac-1,,,
+486,CZO74919.1\par,BioProject: PRJEB4355\par,embl accession FJLE01000006.1\par,Legionella pneumophila\par,,Environmental,,United Kingdom
+487,CZJ44305.1\par,BioProject: PRJEB1828\par,embl accession FJDP01000057.1\par,Legionella pneumophila\par,,Clinical,,Sweden
+488,CZO70821.1\par,BioProject: PRJEB4355\par,embl accession FJLI01000006.1\par,Legionella pneumophila\par,,Environmental,,United Kingdom
+489,CZO71768.1\par,BioProject: PRJEB4355\par,embl accession FJLH01000005.1\par,Legionella pneumophila\par,,Environmental,,United Kingdom
+490,CZM55347.1\par,BioProject: PRJEB4355\par,embl accession FJIJ01000009.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+491,CZH68761.1\par,BioProject: PRJEB1828\par,embl accession FJCL01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+492,CZG50046.1\par,BioProject: PRJEB1828\par,embl accession FJBD01000004.1\par,Legionella pneumophila\par,,Clinical,,Switzerland
+493,CZM22013.1\par,BioProject: PRJEB4355\par,embl accession FJIA01000009.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+494,CZI23586.1\par,BioProject: PRJEB1828\par,embl accession FJDC01000012.1\par,Legionella pneumophila\par,,Clinical,,Denmark
+495,CZN61024.1\par,BioProject: PRJEB4355\par,embl accession FJJU01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+496,CZN58983.1\par,BioProject: PRJEB4355\par,embl accession FJJC01000022.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+497,CZN45038.1\par,BioProject: PRJEB4355\par,embl accession FJJS01000008.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+498,CZM35292.1\par,BioProject: PRJEB4355\par,embl accession FJIK01000005.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+499,CZN25734.1\par,BioProject: PRJEB4355\par,embl accession FJJI01000008.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+500,CZM94327.1\par,BioProject: PRJEB4355\par,embl accession FJJF01000008.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+501,CZM23464.1\par,BioProject: PRJEB4355\par,embl accession FJHZ01000008.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+502,CZM34160.1\par,BioProject: PRJEB4355\par,embl accession FJIG01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+503,CZN33772.1\par,BioProject: PRJEB4355\par,embl accession FJJP01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+504,CZM42539.1\par,BioProject: PRJEB4355\par,embl accession FJIN01000005.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+505,CZO79428.1\par,BioProject: PRJEB1828\par,embl accession FJLL01000007.1\par,Legionella pneumophila\par,,Environmental,,United Kingdom
+506,CZM45136.1\par,BioProject: PRJEB4355\par,embl accession FJIH01000010.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+507,CZO54447.1\par,BioProject: PRJEB4355\par,embl accession FJLC01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+508,CZM43613.1\par,BioProject: PRJEB4355\par,embl accession FJIB01000019.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+509,CZN60884.1\par,BioProject: PRJEB4355\par,embl accession FJJO01000010.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+510,CZM79455.1\par,BioProject: PRJEB4355\par,embl accession FJJB01000004.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+511,CZO60890.1\par,BioProject: PRJEB4355\par,embl accession FJKY01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+512,CZN40520.1\par,BioProject: PRJEB4355\par,embl accession FJJL01000008.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+513,CZN10684.1\par,BioProject: PRJEB4355\par,embl accession FJJH01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+514,CZO03079.1\par,BioProject: PRJEB4355\par,embl accession FJKB01000022.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+515,CZM07546.1\par,BioProject: PRJEB1828\par,embl accession FJHW01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+516,CZM94339.1\par,BioProject: PRJEB4355\par,embl accession FJIW01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+517,CZM21094.1\par,BioProject: PRJEB4355\par,embl accession FJIF01000005.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+518,CZN45558.1\par,BioProject: PRJEB4355\par,embl accession FJJN01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+519,CZO06730.1\par,BioProject: PRJEB4355\par,embl accession FJKK01000005.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+520,CZN40308.1\par,BioProject: PRJEB4355\par,embl accession FJJR01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+521,CZO20170.1\par,BioProject: PRJEB4355\par,embl accession FJKO01000005.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+522,CZM93347.1\par,BioProject: PRJEB4355\par,embl accession FJJE01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+523,CZM94898.1\par,BioProject: PRJEB4355\par,embl accession FJIX01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+524,CZN88531.1\par,BioProject: PRJEB4355\par,embl accession FJKF01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+525,CZM51173.1\par,BioProject: PRJEB4355\par,embl accession FJIP01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+526,CZL94580.1\par,BioProject: PRJEB4355\par,embl accession FJHX01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+527,CZM49270.1\par,BioProject: PRJEB4355\par,embl accession FJIL01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+528,CZN27623.1\par,BioProject: PRJEB4355\par,embl accession FJJJ01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+529,CZM76385.1\par,BioProject: PRJEB4355\par,embl accession FJIY01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+530,CZM51388.1\par,BioProject: PRJEB4355\par,embl accession FJII01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+531,CZO09331.1\par,BioProject: PRJEB4355\par,embl accession FJKP01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+532,CZO14307.1\par,BioProject: PRJEB4355\par,embl accession FJKR01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+533,CZO07377.1\par,BioProject: PRJEB4355\par,embl accession FJKN01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+534,CZO39818.1\par,BioProject: PRJEB4355\par,embl accession FJKZ01000003.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+535,CZO96320.1\par,BioProject: PRJEB1828\par,embl accession FJLM01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+536,CZN68078.1\par,BioProject: PRJEB4355\par,embl accession FJJV01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+537,CZN70182.1\par,BioProject: PRJEB4355\par,embl accession FJJX01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+538,CZM71009.1\par,BioProject: PRJEB4355\par,embl accession FJIU01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+539,CZM77640.1\par,BioProject: PRJEB4355\par,embl accession FJIZ01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+540,CZN91356.1\par,BioProject: PRJEB4355\par,embl accession FJKD01000008.1\par,Legionella pneumophila\par,,Clinical,,
+541,CZO87268.1\par,BioProject: PRJEB4355\par,embl accession FJLJ01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+542,CZO01237.1\par,BioProject: PRJEB4355\par,embl accession FJKH01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+543,CZM63305.1\par,BioProject: PRJEB4355\par,embl accession FJIO01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+544,CZN73155.1\par,BioProject: PRJEB4355\par,embl accession FJKC01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+545,CZN68918.1\par,BioProject: PRJEB4355\par,embl accession FJJW01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+546,CZM12743.1\par,BioProject: PRJEB4355\par,embl accession FJHY01000007.1\par,Legionella pneumophila\par,,Environmental,,United Kingdom
+547,CZO47545.1\par,BioProject: PRJEB4355\par,embl accession FJKW01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+548,CZO21698.1\par,BioProject: PRJEB4355\par,embl accession FJKS01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+549,CZN58487.1\par,BioProject: PRJEB4355\par,embl accession FJJY01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+550,CZM55486.1\par,BioProject: PRJEB4355\par,embl accession FJIQ01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+551,CZM85974.1\par,BioProject: PRJEB4355\par,embl accession FJJA01000005.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+552,CZO55274.1\par,BioProject: PRJEB4355\par,embl accession FJKX01000007.1\par,Legionella pneumophila\par,,Clinical,,
+553,CZO41293.1\par,BioProject: PRJEB4355\par,embl accession FJKT01000008.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+554,CZO08001.1\par,BioProject: PRJEB4355\par,embl accession FJKI01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+555,CZN64723.1\par,BioProject: PRJEB4355\par,embl accession FJKA01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+556,CZM64658.1\par,BioProject: PRJEB4355\par,embl accession FJIS01000006.1\par,Legionella pneumophila\par,,Clinical,,
+557,CZO82434.1\par,BioProject: PRJEB4355\par,embl accession FJLD01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+558,CZM54924.1\par,BioProject: PRJEB4355\par,embl accession FJIM01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+559,CZO70236.1\par,BioProject: PRJEB4355\par,embl accession FJLF01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+560,CZN43260.1\par,BioProject: PRJEB4355\par,embl accession FJJM01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+561,CZO31804.1\par,BioProject: PRJEB4355\par,embl accession FJKQ01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+562,CZN98143.1\par,BioProject: PRJEB4355\par,embl accession FJKJ01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+563,CZO71861.1\par,BioProject: PRJEB4355\par,embl accession FJLG01000008.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+564,CZO30201.1\par,BioProject: PRJEB4355\par,embl accession FJKV01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+565,CZM86509.1\par,BioProject: PRJEB4355\par,embl accession FJIT01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+566,CZN50343.1\par,BioProject: PRJEB4355\par,embl accession FJJT01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+567,CZO64779.1\par,BioProject: PRJEB4355\par,embl accession FJLB01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+568,CZP12188.1\par,BioProject: PRJEB4355\par,embl accession FJLR01000004.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+569,CZM91806.1\par,BioProject: PRJEB4355\par,embl accession FJJD01000008.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+570,CZM09337.1\par,BioProject: PRJEB4355\par,embl accession FJIC01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+571,CZN32855.1\par,BioProject: PRJEB4355\par,embl accession FJJQ01000005.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+572,CZG66904.1\par,BioProject: PRJEB1828\par,embl accession FJAT01000007.1\par,Legionella pneumophila\par,,Clinical,,France
+573,CZN26243.1\par,BioProject: PRJEB4355\par,embl accession FJJK01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+574,CZO21889.1\par,BioProject: PRJEB4355\par,embl accession FJKL01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+575,CZN85141.1\par,BioProject: PRJEB4355\par,embl accession FJKG01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+576,CZM22881.1\par,BioProject: PRJEB4355\par,embl accession FJID01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+577,CZN91834.1\par,BioProject: PRJEB4355\par,embl accession FJKE01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+578,CZM23641.1\par,BioProject: PRJEB4355\par,embl accession FJIE01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+579,CZO37436.1\par,BioProject: PRJEB4355\par,embl accession FJKM01000009.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+580,CZN15125.1\par,BioProject: PRJEB4355\par,embl accession FJJG01000007.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+581,CZN56016.1\par,BioProject: PRJEB4355\par,embl accession FJJZ01000004.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+582,CZM91152.1\par,BioProject: PRJEB4355\par,embl accession FJIV01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+583,CZH23239.1\par,BioProject: PRJEB1828\par,embl accession FJBP01000020.1\par,Legionella pneumophila\par,,Clinical,,France
+584,CZO48159.1\par,BioProject: PRJEB4355\par,embl accession FJKU01000008.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+585,CZM66422.1\par,BioProject: PRJEB4355\par,embl accession FJIR01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+586,CZP27198.1\par,BioProject: PRJEB4355\par,embl accession FJLT01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+587,CZP81323.1\par,BioProject: PRJEB4355\par,embl accession FJMI01000005.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+588,CZG38686.1\par,BioProject: PRJEB1828\par,embl accession FJAD01000003.1\par,Legionella pneumophila\par,,Clinical,,France
+589,CZP07786.1\par,BioProject: PRJEB4355\par,embl accession FJLP01000004.1\par,Legionella pneumophila\par,,Clinical,,Bulgaria
+590,CZG87012.1\par,BioProject: PRJEB1828\par,embl accession FJAJ01000006.1\par,Legionella pneumophila\par,,Environmental,,Switzerland
+591,CZO43979.1\par,BioProject: PRJEB4355\par,embl accession FJLA01000006.1\par,Legionella pneumophila\par,,Clinical,,United Kingdom
+592,CZH24355.1\par,BioProject: PRJEB1828\par,embl accession FJBW01000011.1\par,Legionella pneumophila\par,,Clinical,,Italy
+593,CZH29902.1\par,BioProject: PRJEB1828\par,embl accession FJBU01000012.1\par,Legionella pneumophila\par,,Clinical,,Switzerland
+594,CZG33397.1\par,BioProject: PRJEB1828\par,embl accession FJBI01000003.1\par,Legionella pneumophila\par,,Environmental,,Switzerland
+595,CZP81281.1\par,BioProject: PRJEB4355\par,embl accession FJMM01000005.1\par,Legionella pneumophila\par,,Clinical,,
+596,KQB42556.1\par,BioProject: PRJNA260567\par,accession JRLF01000006.1\par,Flavobacterium aquidurense\par,,soil,,South Korea
+597,KMQ76028.1\par,BioProject: PRJNA284629\par,accession LFBU01000001.1\par,Marinobacter subterrani\par,,iron mine borehole,,"USA: MN, Soudan Iron Mine"
+598,6BG8_B\par,,"pdb: molecule 6BG8, chain B, release Jan 8, 2020;\par",Shewanella frigidimarina NCIMB 400\par,,,,
+599,6BG8_A\par,,"pdb: molecule 6BG8, chain A, release Jan 8, 2020;\par",Shewanella frigidimarina NCIMB 400\par,,,,
+600,ATW86986.1\par,BioProject: PRJNA53493\par,accession CP024845.1\par,Halohasta litchfieldiae\par,,,,
+601,ANP71366.1\par,BioProject: PRJNA326192\par,accession CP016282.1\par,Cryobacterium arcticum\par,,,,
+602,QOU71653.1\par,BioProject: PRJNA309037\par,accession CP062062.1\par,Janthinobacterium sp. HH102\par,,"water rainwater-tap Botanic Garden\par
+                     Hamburg",,Germany: Hamburg
+603,QIE29522.1\par,BioProject: PRJNA604525\par,accession CP049319.1\par,Caballeronia sp. SBC2\par,,soil,,
+604,ALC17754.1\par,BioProject: PRJNA272946\par,accession CP010802.1\par,Desulfuromonas soudanensis\par,,deep subsurface anoxic brine,,"USA: Soudan, MN"
+605,ALC17752.1\par,BioProject: PRJNA272946\par,accession CP010802.1\par,Desulfuromonas soudanensis\par,,deep subsurface anoxic brine,,"USA: Soudan, MN"
+606,ALC17751.1\par,BioProject: PRJNA272946\par,accession CP010802.1\par,Desulfuromonas soudanensis\par,,deep subsurface anoxic brine,,"USA: Soudan, MN"
+607,ALC17750.1\par,BioProject: PRJNA272946\par,accession CP010802.1\par,Desulfuromonas soudanensis\par,,deep subsurface anoxic brine,,"USA: Soudan, MN"
+608,ALC17374.1\par,BioProject: PRJNA272946\par,accession CP010802.1\par,Desulfuromonas soudanensis\par,,deep subsurface anoxic brine,,"USA: Soudan, MN"
+609,ALC16152.1\par,BioProject: PRJNA272946\par,accession CP010802.1\par,Desulfuromonas soudanensis\par,,deep subsurface anoxic brine,,"USA: Soudan, MN"
+610,EJL60261.1\par,BioProject: PRJNA83049\par,accession AKJZ01000078.1\par,Flavobacterium sp. CF136\par,,root,,USA: Tennessee
+611,EGM78318.1\par,BioProject: PRJNA66371\par,accession AFHI01000012.1\par,Rheinheimera sp. A13L\par,,,,India: Pangong Lake
+612,EHQ31210.1\par,BioProject: PRJNA43733\par,accession CM001403.1\par,Mucilaginibacter paludis DSM 18603\par,,"sample collected from 10-20 cm below\par
+                     the surface of the the acidic Sphagnum peat bog Bakchar",,Russia: western Siberia
+613,QNT94698.1\par,BioProject: PRJNA622435\par,accession CP051006.1\par,Streptomyces griseofuscus\par,,,,Japan
+614,AFY67745.1\par,BioProject: PRJNA158833\par,accession CP003591.1\par,Geitlerinema sp. PCC 7407\par,,,,
+615,AEE53479.1\par,BioProject: PRJNA48289\par,accession CP002691.1\par,Haliscomenobacter hydrossis DSM 1100\par,,activated sludge,,Netherlands: Oss
+616,ADR20113.1\par,BioProject: PRJNA37901\par,accession CP002349.1\par,Marivirga tractuosa DSM 4126\par,,beach sand,,Viet Nam: Nha Trang
+617,PRC93514.1\par,BioProject: PRJNA434642\par,accession PUGF01000007.1\par,Solimicrobium silvestre\par,,soil,,"Italy: South Tyrol, Alps"
+618,PRC92576.1\par,BioProject: PRJNA434642\par,accession PUGF01000012.1\par,Solimicrobium silvestre\par,,soil,,"Italy: South Tyrol, Alps"
+619,AIF52902.1\par,BioProject: PRJNA253596\par,accession CP008852.1\par,Pelosinus sp. UFO1\par,,pristine sediments,,USA: Tennessee
+620,EKO38759.1\par,BioProject: PRJNA169936\par,accession ALAO01000214.1\par,Solidesulfovibrio magneticus str. Maddingley MBC34\par,,"sub-cultured for isolation from\par
+                     anaerobic microbial enrichment culture derived from a coal\par
+                     seam gas formation water sample",coal seam gas formation water sample,Australia
+621,EIP98622.1\par,BioProject: PRJNA62139\par,accession JH660698.1\par,Opitutaceae bacterium TAV1\par,,,,
+622,EHQ01173.1\par,BioProject: PRJNA50579\par,accession JH594606.1\par,Gillisia limnaea DSM 15749\par,,microbial mats in Lake Fryxel,,Antarctica: McMurdo Dry Valleys
+623,EMQ96647.1\par,BioProject: PRJNA185041\par,accession AOCK01000015.1\par,Paeniglutamicibacter gangotriensis Lz1y\par,,"near the Indian station Dakshin\par
+                     Gangotri",,Antarctica

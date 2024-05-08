@@ -2,9 +2,11 @@ from collections import defaultdict
 import pandas as pd
 
 score_cutoff = 80
+input_score_table = "input_data/score_table.txt"
+input_file = "input_data/sequence.txt"
+output_file = "output/output.csv"
 
 # Load score lookup table for amino acids at each position
-input_score_table = "input_data/score_table.txt"
 print(f"Loading score table: {input_score_table}")
 score_table = {}
 
@@ -27,7 +29,6 @@ def score_sequence(seq):
 results = defaultdict(list)
 
 # Read the protein sequences
-input_file = "input_data/sequence.txt"
 print(f"Reading protein sequences and scoring subsequences: {input_file}")
 print("Using score cutoff:", score_cutoff)
 with open(input_file) as f:
@@ -59,6 +60,5 @@ for seq_name, matches in results.items():
 df = pd.DataFrame(output, columns=["No. of Hits", "Seq Name", "Sequence"])
 
 # Save the DataFrame to a CSV file
-output_file = "output/output.csv"
 df.to_csv(output_file, index=False)
 print(f"Results saved to {output_file}.")

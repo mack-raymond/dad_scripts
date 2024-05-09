@@ -3,7 +3,7 @@ import pandas as pd
 
 score_cutoff = 80
 input_score_table = "input_data/score_table.txt"
-input_file = "input_data/sequence.txt"
+input_file = "input_data/145 bacterial proteins from svalbard.txt"
 output_file = "output/output.csv"
 
 # Load score lookup table for amino acids at each position
